@@ -14,19 +14,19 @@ authors:
 
 ![](https://via.placeholder.com/1280x480)
 
-||| :timer_clock: Tid
+||| :timer_clock: Prep Time
 65 min
-||| :knife_fork_plate: Porsjoner
+||| :knife_fork_plate: Serves
 2
-||| :cook: Vanskelighetsgrad
+||| :cook: Difficulty Level
 Medium
 |||
 
-## Ingredienser
+## Ingredients
 
 - 2 ts pepper
 - ...
 
-## Steg
+## Steps
 
-1. Først ...
+1. First...

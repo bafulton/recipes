@@ -35,9 +35,9 @@ authors:
 
 ![](https://via.placeholder.com/1280x480)
 
-||| :timer_clock: Tid
+||| :timer_clock: Prep Time
 65 min
-||| :knife_fork_plate: Portions
+||| :knife_fork_plate: Serves
 2
 ||| :cook: Difficulty Level
 Medium
