@@ -3,7 +3,7 @@ edit:
   repo: github.com/bafulton/recipes/edit
   base: /src
   label: "Edit on GitHub"
-favicon: favicon.png
+favicon: static/favicon.png
 input: ./src
 output: ./docs
 branding:
