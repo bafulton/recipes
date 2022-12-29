@@ -6,22 +6,16 @@ edit:
 input: ./src
 output: ./docs
 branding:
-  title: Fulton & Huffman Recipes
+  title: Family Recipes
 meta:
-  title: " | Fulton & Huffman Recipes"
+  title: " | Family Recipes"
 links:
-  - text: Tags
-    link: ./tags
-    icon: tag
   - text: Categories
     link: ./categories
     icon: container
+  - text: Tags
+    link: ./tags
+    icon: tag
   - text: Suggest a recipe
     link: https://github.com/bafulton/recipes/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D
     icon: git-pull-request
-footer:
-  copyright: "Copyright {{ year }}. All rights reversed."
-  links:
-    - text: GitHub
-      icon: mark-github
-      link: https://github.com/bafulton

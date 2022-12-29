@@ -37,20 +37,20 @@ authors:
 
 ||| :timer_clock: Tid
 65 min
-||| :knife_fork_plate: Porsjoner
+||| :knife_fork_plate: Portions
 2
-||| :cook: Vanskelighetsgrad
+||| :cook: Difficulty Level
 Medium
 |||
 
-## Ingredienser
+## Ingredients
 
 - 2 ts pepper
 - ...
 
-## Steg
+## Steps
 
-1. Først ...
+1. First...
 ```
 
 **Additional context**
