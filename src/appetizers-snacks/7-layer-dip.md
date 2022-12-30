@@ -10,7 +10,7 @@ authors:
     avatar: ":cook:"
 ---
 
-# Pasta a la Vodka
+# 7-layer Dip
 
 ![](/static/pasta-a-la-vodka.webp)
 

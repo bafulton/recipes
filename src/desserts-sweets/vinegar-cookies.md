@@ -10,7 +10,7 @@ authors:
     avatar: ":cook:"
 ---
 
-# Pasta a la Vodka
+# Vinegar Cookies
 
 ![](/static/pasta-a-la-vodka.webp)
 
