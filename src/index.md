@@ -1,4 +1,6 @@
-# Fulton & Huffman Family Recipes
+# Family Recipes
+
+Welcome to the repository of favorite Fulton & Huffman family recipes!
 
 !!! success
 If you're looking for inspiration on what to make, take a look at [!badge
