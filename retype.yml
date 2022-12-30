@@ -11,7 +11,7 @@ branding:
 meta:
   title: " | Family Recipes"
 links:
-  - text: Authors
+  - text: Contributors
     link: ./categories
     icon: people
   - text: Tags
