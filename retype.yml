@@ -17,6 +17,9 @@ links:
   - text: Tags
     link: ./tags
     icon: tag
+  - text: Authors
+    link: ./authors
+    icon: person
   - text: Suggest a recipe
     link: https://github.com/bafulton/recipes/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D
     icon: git-pull-request
