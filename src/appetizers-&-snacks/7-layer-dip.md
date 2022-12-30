@@ -1,7 +1,9 @@
 ---
 tags: []
 categories: [Unknown]
-authors: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 route: /appetizers-snacks/7-layer-dip
 ---
 
