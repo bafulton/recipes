@@ -1,13 +1,8 @@
 ---
-tag:
- - pasta
- - vodka
-category:
- - middag
-authors:
-  - name: "@matlagningmedmammsen"
-    link: "https://www.instagram.com/matlagningmedmammsen/"
-    avatar: ":cook:"
+label: Vinegar cookies
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/vinegar-cookies
 ---
 
 # Vinegar Cookies

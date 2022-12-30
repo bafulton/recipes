@@ -1,3 +1,9 @@
+---
+label: Donuts
+tags: []
+categories: [Unknown]
+---
+
 https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/
 
 Ingredients:

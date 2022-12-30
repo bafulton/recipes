@@ -1,3 +1,9 @@
+---
+label: Chicken salad
+tags: []
+categories: [Unknown]
+---
+
 Emilie's Chicken Salad
 
 3 cans chicken

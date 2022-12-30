@@ -1,3 +1,9 @@
+---
+label: Maple sesame salmon
+tags: []
+categories: [Unknown]
+---
+
 Ingredients:
 
 2 pounds of salmon fillets

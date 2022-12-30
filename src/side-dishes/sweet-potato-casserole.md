@@ -1,3 +1,9 @@
+---
+label: Sweet potato casserole
+tags: []
+categories: [Unknown]
+---
+
 Filling:
 - 3-4 large sweet potatoes
 - 1/2 stick butter

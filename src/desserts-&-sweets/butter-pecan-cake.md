@@ -1,13 +1,8 @@
 ---
-tag:
- - pasta
- - vodka
-category:
- - middag
-authors:
-  - name: "@matlagningmedmammsen"
-    link: "https://www.instagram.com/matlagningmedmammsen/"
-    avatar: ":cook:"
+label: Butter pecan cake
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/butter-pecan-cake
 ---
 
 # Butter Pecan Cake

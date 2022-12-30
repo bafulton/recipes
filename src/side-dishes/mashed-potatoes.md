@@ -1,3 +1,9 @@
+---
+label: Mashed potatoes
+tags: []
+categories: [Unknown]
+---
+
 Ingredients:
 - 1 bag potatoes
 - 1 head of garlic

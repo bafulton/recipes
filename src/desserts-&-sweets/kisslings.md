@@ -1,3 +1,10 @@
+---
+label: Kisslings
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/kisslings
+---
+
 4 sticks butter straight from the fridge
 4 cups flour
 1/2 cup powdered sugar

@@ -1,13 +1,7 @@
 ---
-tag:
- - pasta
- - vodka
-category:
- - middag
-authors:
-  - name: "@matlagningmedmammsen"
-    link: "https://www.instagram.com/matlagningmedmammsen/"
-    avatar: ":cook:"
+label: Kringla
+tags: []
+categories: [Unknown]
 ---
 
 # Kringla

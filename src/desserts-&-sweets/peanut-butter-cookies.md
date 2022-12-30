@@ -1,3 +1,10 @@
+---
+label: Peanut butter cookies
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/peanut-butter-cookies
+---
+
 1 c butter (2 sticks) softened
 1 c peanut butter (crunchy or creamy)
 1 c white sugar

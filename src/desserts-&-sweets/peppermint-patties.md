@@ -1,3 +1,10 @@
+---
+label: Peppermint patties
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/peppermint-patties
+---
+
 Jeannine’s Peppermint Patties
 
 1 8oz. pkg. cream cheese softened

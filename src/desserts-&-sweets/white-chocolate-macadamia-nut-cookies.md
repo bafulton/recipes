@@ -1,3 +1,10 @@
+---
+label: White chocolate macadamia nut cookies
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
+---
+
 1 c butter (2 sticks) softened
 1/2 c sugar
 3/4 c brown sugar

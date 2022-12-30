@@ -1,3 +1,10 @@
+---
+label: Buckeye balls
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/buckeye-balls
+---
+
 1 1/2 cups creamy peanut butter
 1 stick butter
 1 tsp vanilla

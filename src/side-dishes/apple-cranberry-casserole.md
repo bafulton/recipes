@@ -1,3 +1,9 @@
+---
+label: Apple cranberry casserole
+tags: []
+categories: [Unknown]
+---
+
 Huffmans' Apple Cranberry Casserole
 
 Filling:

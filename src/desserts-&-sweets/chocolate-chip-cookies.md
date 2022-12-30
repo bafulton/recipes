@@ -1,3 +1,10 @@
+---
+label: Chocolate chip cookies
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/chocolate-chip-cookies
+---
+
 Fultons' Chocolate Chip Cookies
 
 1 c butter (2 sticks) softened

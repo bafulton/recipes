@@ -1,3 +1,9 @@
+---
+label: Kale salad
+tags: []
+categories: [Unknown]
+---
+
 Salad:
 - 1 bag kale (~8 oz)
 - 1/2 cup dried cranberries

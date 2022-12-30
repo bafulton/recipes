@@ -1,3 +1,10 @@
+---
+label: Apple crumble
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/apple-crumble
+---
+
 Filling:
 - 12-18 chopped apples (size-dependent), enough to fill a 9x13 dish mostly full
 - 1 cup sugar

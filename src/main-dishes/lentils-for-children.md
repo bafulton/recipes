@@ -1,14 +1,9 @@
 ---
-tag:
- - pasta
- - vodka
-category:
- - middag
-authors:
-  - name: "@matlagningmedmammsen"
-    link: "https://www.instagram.com/matlagningmedmammsen/"
-    avatar: ":cook:"
+label: Lentils for children
+tags: []
+categories: [Unknown]
 ---
+
 
 # Lentils for Children
 

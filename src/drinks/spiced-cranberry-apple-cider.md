@@ -1,3 +1,9 @@
+---
+label: Spiced cranberry apple cider
+tags: []
+categories: [Unknown]
+---
+
 Ingredients:
 - 2 cups apple cider
 - 2 cups cranberry juice

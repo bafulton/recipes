@@ -1,3 +1,10 @@
+---
+label: Gingerbread cookies
+tags: []
+categories: [Unknown]
+route: /desserts-sweets/gingerbread-cookies
+---
+
 Ingredients:
 - 1 1/4 sticks butter, room temperature
 - 3/4 cup dark brown sugar

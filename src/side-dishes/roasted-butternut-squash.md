@@ -1,3 +1,9 @@
+---
+label: Roasted butternut squash
+tags: []
+categories: [Unknown]
+---
+
 Ingredients:
 - 1 medium butternut squash (~3 lbs)
 - 2 tbsp olive oil

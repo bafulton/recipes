@@ -1,3 +1,9 @@
+---
+label: Crockpot tortilla soup
+tags: []
+categories: [Unknown]
+---
+
 Ingredients:
 
 1 package soy curls (or about 2 cups of beans, tempeh, or your favorite protein here)
