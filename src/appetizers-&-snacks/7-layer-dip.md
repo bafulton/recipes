@@ -1,13 +1,8 @@
 ---
-tag:
- - pasta
- - vodka
-category:
- - middag
-authors:
-  - name: "@matlagningmedmammsen"
-    link: "https://www.instagram.com/matlagningmedmammsen/"
-    avatar: ":cook:"
+tags: []
+categories: [Unknown]
+authors: [Unknown]
+route: /appetizers-snacks/7-layer-dip
 ---
 
 # 7-layer Dip
