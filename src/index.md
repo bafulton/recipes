@@ -1,4 +1,4 @@
-# Family Recipes
+# Fulton & Huffman Family Recipes
 
 Welcome to the repository of favorite Fulton & Huffman family recipes!
 
