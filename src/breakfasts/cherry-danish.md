@@ -1,3 +1,5 @@
+Huffmans' Cherry Danish
+
 2 cans crescent roll dough
 2 8-oz packages cream cheese
 1 can cherry pie filling

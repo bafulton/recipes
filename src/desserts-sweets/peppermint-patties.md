@@ -1,4 +1,5 @@
 Jeannine’s Peppermint Patties
+
 1 8oz. pkg. cream cheese softened
 
 1 teaspoon peppermint extract

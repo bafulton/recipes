@@ -1,3 +1,5 @@
+Huffmans' Apple Cranberry Casserole
+
 Filling:
 - 3 cups apples, chopped
 - 2 cups raw cranberries

@@ -1,3 +1,5 @@
+Emilie's Chicken Salad
+
 3 cans chicken
 1/4 cup chopped pecans
 1/2 cup mayonnaise
