@@ -1,22 +1,12 @@
-----
-description: 'Dolby mat til alle'
-icon: ":hocho:"
----
-
-# Om Flott Flyt Foods
+# Fulton & Huffman Family Recipes
 
 !!! success
-Om du mangler litt inspirasjon til hva du skal lage til middag, ta en titt i [!badge
-corners="pill" size="s" variant="light" text="Kategorier"](./categories) eller [!badge
-corners="pill" size="s" variant="light" text="Bokmerker"](./tags)!
+If you're looking for inspiration on what to make, take a look at [!badge
+corners="pill" size="s" variant="light" text="Authors"](./categories) or [!badge
+corners="pill" size="s" variant="light" text="Tags"](./tags).
 !!!
 
 !!! warning
-Hvis du er på jakt etter noe spesielt, sjekk om jeg har lagt den inn ved å bruke
-søkefeltet øverst til høyre. Og om du ikke finner den, [!badge size="s" corners="pill"
-variant="light" iconAlign="right" icon="paper-airplane" text="foreslå den til meg"](https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
-!!!
-
-Eventuelt kan du anmode om at en ny oppskrift legges til via et gaflet repository:
-
-[!ref icon=":rocket:" text="Hvordan bidra"](/blog/2022-5-24-hvordan-bidra.md)
+If you're looking for something in particular, you can look for it using the search box at the top right. And if you can't find it, [!badge size="s" corners="pill"
+variant="light" iconAlign="right" icon="paper-airplane" text="suggest it"](https://github.com/bafulton/recipes/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
+!!
