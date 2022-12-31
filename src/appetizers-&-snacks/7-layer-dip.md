@@ -9,6 +9,15 @@ route: /appetizers-snacks/7-layer-dip
 ---
 
 # 7-layer Dip
+<!--- ![](/static/images/???.webp) --->
+
+||| Prep Time
+??? min
+||| Makes
+??? portions/etc.
+||| Complexity
+Simple/etc.
+|||
 
 ## Summary
 ## Ingredients

@@ -9,6 +9,15 @@ route: /desserts-sweets/peppermint-patties
 ---
 
 # Peppermint Patties
+<!--- ![](/static/images/???.webp) --->
+
+||| Prep Time
+??? min
+||| Makes
+??? portions/etc.
+||| Complexity
+Simple/etc.
+|||
 
 ## Summary
 Jeannine’s Peppermint Patties

@@ -9,6 +9,15 @@ route: /desserts-sweets/gingerbread-cookies
 ---
 
 # Gingerbread Cookies
+<!--- ![](/static/images/???.webp) --->
+
+||| Prep Time
+??? min
+||| Makes
+??? portions/etc.
+||| Complexity
+Simple/etc.
+|||
 
 ## Summary
 

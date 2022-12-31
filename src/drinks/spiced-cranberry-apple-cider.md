@@ -8,6 +8,15 @@ authors:
 ---
 
 # Spiced Cranberry Apple Cider
+<!--- ![](/static/images/???.webp) --->
+
+||| Prep Time
+??? min
+||| Makes
+??? portions/etc.
+||| Complexity
+Simple/etc.
+|||
 
 ## Summary
 

@@ -8,6 +8,15 @@ authors:
 ---
 
 # Chocolate Banana Bread
+<!--- ![](/static/images/???.webp) --->
+
+||| Prep Time
+??? min
+||| Makes
+??? portions/etc.
+||| Complexity
+Simple/etc.
+|||
 
 ## Summary
 

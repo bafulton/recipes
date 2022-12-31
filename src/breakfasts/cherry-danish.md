@@ -7,7 +7,16 @@ authors:
     link: /categories/kimberly-huffman
 ---
 
-# Huffmans' Cherry Danish
+# Cherry Danish
+<!--- ![](/static/images/???.webp) --->
+
+||| Prep Time
+??? min
+||| Makes
+??? portions/etc.
+||| Complexity
+Simple/etc.
+|||
 
 ## Summary
 
