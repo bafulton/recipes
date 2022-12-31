@@ -40,3 +40,4 @@ let them cool completely, then roll in powdered sugar again
 store in an airtight container
 
 ## Resources
+![](/static/archive/kisslings.jpg)

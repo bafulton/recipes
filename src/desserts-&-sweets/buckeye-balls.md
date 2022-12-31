@@ -39,3 +39,4 @@ Simple/etc.
 8. Chill for at least 30 minutes.
 
 ## Resources
+![](/static/archive/buckeye-balls.jpg)

@@ -23,3 +23,5 @@ Simple/etc.
 ## Ingredients
 ## Steps
 ## Resources
+![](/static/archive/7-layer-dip.jpg)
+![](/static/archive/7-layer-dip-comments.png)

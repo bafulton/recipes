@@ -23,3 +23,5 @@ Simple/etc.
 ## Ingredients
 ## Steps
 ## Resources
+![](/static/archive/butter-pecan-cake-front.jpg)
+![](/static/archive/butter-pecan-cake-back.jpg)

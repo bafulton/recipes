@@ -23,3 +23,4 @@ Simple/etc.
 ## Ingredients
 ## Steps
 ## Resources
+![](/static/archive/lentils-for-children.jpg)
