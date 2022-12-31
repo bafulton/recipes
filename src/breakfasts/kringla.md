@@ -12,3 +12,4 @@ authors:
 ## Summary
 ## Ingredients
 ## Steps
+## Resources

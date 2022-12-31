@@ -28,3 +28,5 @@ route: /desserts-sweets/buckeye-balls
 6. Melt chocolate chips (using microwave, double boiler, chocolate melter, etc.).
 7. Use toothpicks to dip the chilled balls in the melted chocolate and place them on wax paper.
 8. Chill for at least 30 minutes.
+
+## Resources

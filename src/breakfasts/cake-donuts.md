@@ -10,7 +10,6 @@ authors:
 # Cake Donuts
 
 ## Summary
-https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/
 
 ## Ingredients
 - 2 cups all-purpose flour
@@ -30,3 +29,6 @@ https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/
 3. Stir in egg and milk until smooth. Knead lightly.
 4. Roll to 1/4 inch thickness on a floured surface, and cut out donuts.
 5. Fry in hot oil (375 degrees) until golden brown.
+
+## Resources
+https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/

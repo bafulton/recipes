@@ -13,3 +13,4 @@ route: /desserts-sweets/vinegar-cookies
 ## Summary
 ## Ingredients
 ## Steps
+## Resources

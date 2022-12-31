@@ -13,3 +13,4 @@ route: /appetizers-snacks/7-layer-dip
 ## Summary
 ## Ingredients
 ## Steps
+## Resources

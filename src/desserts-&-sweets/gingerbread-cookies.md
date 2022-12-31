@@ -11,7 +11,6 @@ route: /desserts-sweets/gingerbread-cookies
 # Gingerbread Cookies
 
 ## Summary
-https://sallysbakingaddiction.com/best-gingerbread-cookies/
 
 ## Ingredients
 - 1 1/4 sticks butter, room temperature
@@ -39,3 +38,6 @@ https://sallysbakingaddiction.com/best-gingerbread-cookies/
 9. Use cookie cutters, place cookies on baking sheets lined with baking parchment.
 10. Bake cookies for 9-10 minutes, rotating as needed. Do not overbake.
 11. Let cookies cool, and decorate.
+
+## Resources
+https://sallysbakingaddiction.com/best-gingerbread-cookies/

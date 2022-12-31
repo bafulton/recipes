@@ -10,7 +10,6 @@ authors:
 # Mashed Potatoes
 
 ## Summary
-https://www.bonappetit.com/recipe/mashed-baked-potatoes-with-chives
 
 ## Ingredients
 - 1 bag potatoes
@@ -30,3 +29,6 @@ https://www.bonappetit.com/recipe/mashed-baked-potatoes-with-chives
 4. Optionally halve the potatoes lengthwise and remove the skins. Place the potatoes in a mixer. Squeeze the garlic clovess out of their shells and into the mixer as well.
 5. Add butter and mix until there are only a few lumps. Add milk until the potatoes are creamy. Add salt and pepper to taste.
 6. Chop chives and serve alongside the potatoes.
+
+## Resources
+https://www.bonappetit.com/recipe/mashed-baked-potatoes-with-chives

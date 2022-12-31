@@ -10,7 +10,6 @@ authors:
 # Sweet Potato Casserole
 
 ## Summary
-https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945
 
 ## Ingredients: Filling
 - 3-4 large sweet potatoes
@@ -37,3 +36,6 @@ https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-
 5. Mix the filling ingredients into the sweet potatoes, put in the baking dish.
 6. Combine the topping ingredients and mix until it clumps together. Put on top of the filling.
 7. Bake until mostly set in the middle and golden on top (~25-30 minutes). Serve hot/warm.
+
+## Resources
+https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945

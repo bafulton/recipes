@@ -13,3 +13,4 @@ route: /desserts-sweets/butter-pecan-cake
 ## Summary
 ## Ingredients
 ## Steps
+## Resources

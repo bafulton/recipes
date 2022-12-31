@@ -10,7 +10,6 @@ authors:
 # Roasted Butternut Squash
 
 ## Summary
-https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-turmeric/
 
 ## Ingredients
 - 1 medium butternut squash (~3 lbs)
@@ -26,3 +25,6 @@ https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-t
 3. Mix all ingredients together until the squash chunks are well coated.
 4. Spread the chunks out on a baking pan, and roast for 35 minutes, until the squash is tender.
 5. Serve warm.
+
+## Resources
+https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-turmeric/

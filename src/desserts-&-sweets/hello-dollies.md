@@ -11,7 +11,7 @@ route: /desserts-sweets/hello-dollies
 # Hello Dollies
 
 ## Summary
-https://insanelygoodrecipes.com/hello-dolly-bars/
-
 ## Ingredients
 ## Instructions
+## Resources
+https://insanelygoodrecipes.com/hello-dolly-bars/

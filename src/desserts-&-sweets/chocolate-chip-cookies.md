@@ -8,8 +8,11 @@ authors:
 route: /desserts-sweets/chocolate-chip-cookies
 ---
 
-Fultons' Chocolate Chip Cookies
+# Chocolate Chips
 
+## Summary
+
+## Ingredients
 1 c butter (2 sticks) softened
 3/4 c sugar
 3/4 c brown sugar
@@ -24,6 +27,7 @@ Fultons' Chocolate Chip Cookies
 1 pkg c c (2 cups)
 1 c chopped nuts
 
+## Instructions
 oven -> broil
 cream butter, sugars, vanilla
 beat in eggs

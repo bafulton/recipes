@@ -10,7 +10,6 @@ authors:
 # Spiced Cranberry Apple Cider
 
 ## Summary
-https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/
 
 ## Ingredients
 - 2 cups apple cider
@@ -24,3 +23,6 @@ https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/
 1. Add all ingredients to a slow cooker. Stir in the sugar.
 2. Set slow cooker to high temperature until the mixture boils. Remove the cloves and cinnamon, and set the cooker to low temperature.
 3. Serve warm/hot.
+
+## Resources
+https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/
