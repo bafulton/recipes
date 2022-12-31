@@ -1,6 +1,6 @@
 ---
 label: Peppermint patties
-tags: [Christmas]
+tags: [christmas]
 categories: [Noelle Huffman]
 authors:
   - name: Noelle Huffman

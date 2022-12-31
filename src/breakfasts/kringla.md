@@ -1,6 +1,6 @@
 ---
 label: Kringla
-tags: [Christmas]
+tags: [christmas]
 categories: [Betsy Fulton]
 authors:
   - name: Betsy Fulton

@@ -1,6 +1,6 @@
 ---
 label: Spiced cranberry apple cider
-tags: [Thanksgiving]
+tags: [thanksgiving]
 categories: [Emilie Huffman]
 authors:
   - name: Emilie Huffman

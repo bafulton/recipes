@@ -1,6 +1,6 @@
 ---
 label: Sweet potato casserole
-tags: [Thanksgiving]
+tags: [thanksgiving]
 categories: [Ben Fulton]
 authors:
   - name: Ben Fulton

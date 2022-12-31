@@ -1,6 +1,6 @@
 ---
 label: Kale salad
-tags: [Thanksgiving]
+tags: [thanksgiving]
 categories: [Emilie Huffman]
 authors:
   - name: Emilie Huffman

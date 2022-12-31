@@ -1,6 +1,6 @@
 ---
 label: Vinegar cookies
-tags: [Christmas]
+tags: [christmas]
 categories: [Rachel Coleman]
 authors:
   - name: Rachel Coleman

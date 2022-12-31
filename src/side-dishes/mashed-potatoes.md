@@ -1,6 +1,6 @@
 ---
 label: Mashed potatoes
-tags: [Thanksgiving]
+tags: [thanksgiving]
 categories: [Ben Fulton]
 authors:
   - name: Ben Fulton

@@ -1,6 +1,6 @@
 ---
 label: Roasted butternut squash
-tags: [Thanksgiving]
+tags: [thanksgiving]
 categories: [Emilie Huffman]
 authors:
   - name: Emilie Huffman

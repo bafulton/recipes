@@ -1,6 +1,6 @@
 ---
 label: Buckeye balls
-tags: [Christmas]
+tags: [christmas]
 categories: [Betsy Fulton]
 authors:
   - name: Betsy Fulton
