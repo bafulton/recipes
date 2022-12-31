@@ -49,4 +49,4 @@ Simple/etc.
 11. Let cookies cool, and decorate.
 
 ## Resources
-https://sallysbakingaddiction.com/best-gingerbread-cookies/
+[!embed](https://sallysbakingaddiction.com/best-gingerbread-cookies/)

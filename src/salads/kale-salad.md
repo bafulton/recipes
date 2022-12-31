@@ -42,4 +42,4 @@ Simple/etc.
 4. In a small bowl, whisk the dressing ingredients together and pour the dressing over the salad. Toss until the salad is evenly coated with dressing. Serve immediately, or for even better flavor, let the salad marinate in the dressing for 10 to 20 minutes beforehand.
 
 ## Resources
-https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/
+[!embed](https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/)

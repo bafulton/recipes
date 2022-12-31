@@ -36,4 +36,4 @@ Simple/etc.
 5. Serve warm.
 
 ## Resources
-https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-turmeric/
+[!embed](https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-turmeric/)

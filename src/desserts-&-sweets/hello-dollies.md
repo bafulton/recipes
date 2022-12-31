@@ -23,4 +23,4 @@ Simple/etc.
 ## Ingredients
 ## Instructions
 ## Resources
-https://insanelygoodrecipes.com/hello-dolly-bars/
+[!embed](https://insanelygoodrecipes.com/hello-dolly-bars/)

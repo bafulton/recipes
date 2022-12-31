@@ -47,4 +47,4 @@ Simple/etc.
 7. Bake until mostly set in the middle and golden on top (~25-30 minutes). Serve hot/warm.
 
 ## Resources
-https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945
+[!embed](https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945)
