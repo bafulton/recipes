@@ -12,3 +12,10 @@ If you're looking for inspiration on what to make, check out [!badge
 corners="pill" size="s" variant="light" text="Contributors"](./categories) or [!badge
 corners="pill" size="s" variant="light" text="Tags"](./tags).
 !!!
+
+<!---
+Useful design info:
+- https://retype.com/components/alert/#variants
+- https://retype.com/components/badge/#variants
+- https://retype.com/components/reference-link/
+--->
