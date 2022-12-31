@@ -1,5 +1,5 @@
 ---
-label: Cake Donuts
+label: Cake donuts
 tags: []
 categories: [Ben Fulton]
 authors:
