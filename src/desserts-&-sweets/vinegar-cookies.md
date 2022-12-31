@@ -1,10 +1,10 @@
 ---
 label: Vinegar cookies
-tags: []
-categories: [Unknown]
+tags: [Christmas]
+categories: [Rachel Coleman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Rachel Coleman
+    link: /categories/rachel-coleman
 route: /desserts-sweets/vinegar-cookies
 ---
 

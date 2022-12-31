@@ -1,10 +1,10 @@
 ---
 label: Cherry danish
-tags: []
-categories: [Unknown]
+tags: [Christmas]
+categories: [Kimberly Huffman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Kimberly Huffman
+    link: /categories/kimberly-huffman
 ---
 
 # Huffmans' Cherry Danish

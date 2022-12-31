@@ -1,10 +1,10 @@
 ---
 label: Mashed potatoes
-tags: []
-categories: [Unknown]
+tags: [Thanksgiving]
+categories: [Ben Fulton]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Ben Fulton
+    link: /categories/ben-fulton
 ---
 
 # Mashed Potatoes

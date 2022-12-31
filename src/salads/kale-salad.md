@@ -1,16 +1,15 @@
 ---
 label: Kale salad
-tags: []
-categories: [Unknown]
+tags: [Thanksgiving]
+categories: [Emilie Huffman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Emilie Huffman
+    link: /categories/emilie-huffman
 ---
 
 # Kale Salad
 
 ## Summary
-https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/
 
 ## Ingredients: Salad
 - 1 bag kale (~8 oz)
@@ -32,3 +31,6 @@ https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/
 2. Sprinkle a small pinch of sea salt over the kale and massage the leaves with your hands by lightly scrunching big handfuls at a time, until the leaves are darker in color and fragrant.
 3. Coarsely chop the pecans and cranberries (or cherries) and add them to the bowl. Chop the apple into small, bite-sized pieces and add it to the bowl as well. Crumble the goat cheese over the top.
 4. In a small bowl, whisk the dressing ingredients together and pour the dressing over the salad. Toss until the salad is evenly coated with dressing. Serve immediately, or for even better flavor, let the salad marinate in the dressing for 10 to 20 minutes beforehand.
+
+## Resources
+https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/

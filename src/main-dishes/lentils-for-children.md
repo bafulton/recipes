@@ -1,10 +1,10 @@
 ---
 label: Lentils for children
 tags: []
-categories: [Unknown]
+categories: [Ben Fulton]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Ben Fulton
+    link: /categories/ben-fulton
 ---
 
 

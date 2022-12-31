@@ -1,10 +1,10 @@
 ---
 label: Maple sesame salmon
 tags: []
-categories: [Unknown]
+categories: [Emilie Huffman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Emilie Huffman
+    link: /categories/emilie-huffman
 ---
 
 # Maple Sesame Salmon

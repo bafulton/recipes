@@ -1,10 +1,10 @@
 ---
 label: Peppermint patties
-tags: []
-categories: [Unknown]
+tags: [Christmas]
+categories: [Noelle Huffman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Noelle Huffman
+    link: /categories/noelle-huffman
 route: /desserts-sweets/peppermint-patties
 ---
 

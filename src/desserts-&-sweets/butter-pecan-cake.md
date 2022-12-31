@@ -1,10 +1,10 @@
 ---
 label: Butter pecan cake
 tags: []
-categories: [Unknown]
+categories: [Betsy Fulton]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Betsy Fulton
+    link: /categories/betsy-fulton
 route: /desserts-sweets/butter-pecan-cake
 ---
 

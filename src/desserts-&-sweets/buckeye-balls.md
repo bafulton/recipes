@@ -1,10 +1,10 @@
 ---
 label: Buckeye balls
-tags: []
-categories: [Unknown]
+tags: [Christmas]
+categories: [Betsy Fulton]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Betsy Fulton
+    link: /categories/betsy-fulton
 route: /desserts-sweets/buckeye-balls
 ---
 

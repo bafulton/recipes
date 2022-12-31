@@ -1,10 +1,10 @@
 ---
 label: Roasted butternut squash
-tags: []
-categories: [Unknown]
+tags: [Thanksgiving]
+categories: [Emilie Huffman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Emilie Huffman
+    link: /categories/emilie-huffman
 ---
 
 # Roasted Butternut Squash

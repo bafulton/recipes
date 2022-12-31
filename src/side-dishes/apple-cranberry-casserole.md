@@ -1,10 +1,10 @@
 ---
 label: Apple cranberry casserole
-tags: []
-categories: [Unknown]
+tags: [Thanksgiving]
+categories: [Kimberly Huffman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Kimberly Huffman
+    link: /categories/kimberly-huffman
 ---
 
 # Apple Cranberry Casserole

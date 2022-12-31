@@ -1,10 +1,10 @@
 ---
 label: 7-layer dip
-tags: []
-categories: [Unknown]
+tags: [Christmas]
+categories: [Kimberly Huffman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Kimberly Huffman
+    link: /categories/kimberly-huffman
 route: /appetizers-snacks/7-layer-dip
 ---
 
