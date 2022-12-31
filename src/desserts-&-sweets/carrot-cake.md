@@ -2,6 +2,9 @@
 label: Carrot cake
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 route: /desserts-sweets/carrot-cake
 ---
 

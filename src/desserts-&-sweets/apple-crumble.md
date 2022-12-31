@@ -2,6 +2,9 @@
 label: Apple crumble
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 route: /desserts-sweets/apple-crumble
 ---
 

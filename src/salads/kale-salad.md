@@ -2,6 +2,9 @@
 label: Kale salad
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Salad:

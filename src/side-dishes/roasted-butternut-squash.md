@@ -2,6 +2,9 @@
 label: Roasted butternut squash
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Ingredients:

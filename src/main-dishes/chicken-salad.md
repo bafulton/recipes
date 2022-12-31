@@ -2,6 +2,9 @@
 label: Chicken salad
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Emilie's Chicken Salad

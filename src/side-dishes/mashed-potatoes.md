@@ -2,6 +2,9 @@
 label: Mashed potatoes
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Ingredients:

@@ -2,6 +2,9 @@
 label: Maple sesame salmon
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Ingredients:

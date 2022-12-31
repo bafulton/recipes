@@ -2,6 +2,9 @@
 label: Chocolate banana bread
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 https://www.onceuponachef.com/recipes/chocolate-banana-bread.html

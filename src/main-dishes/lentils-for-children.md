@@ -2,6 +2,9 @@
 label: Lentils for children
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 

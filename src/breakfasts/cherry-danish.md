@@ -1,9 +1,12 @@
----
+`---
 label: Cherry danish
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
-
+`
 Huffmans' Cherry Danish
 
 2 cans crescent roll dough

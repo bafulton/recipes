@@ -2,6 +2,9 @@
 label: Crockpot tortilla soup
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Ingredients:

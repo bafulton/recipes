@@ -2,6 +2,9 @@
 label: Peppermint patties
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 route: /desserts-sweets/peppermint-patties
 ---
 

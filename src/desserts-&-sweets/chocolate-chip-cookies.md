@@ -2,6 +2,9 @@
 label: Chocolate chip cookies
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 route: /desserts-sweets/chocolate-chip-cookies
 ---
 

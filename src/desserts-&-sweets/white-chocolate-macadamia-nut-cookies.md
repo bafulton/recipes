@@ -2,6 +2,9 @@
 label: White chocolate macadamia nut cookies
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 ---
 

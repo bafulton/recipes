@@ -2,6 +2,9 @@
 label: Spiced cranberry apple cider
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Ingredients:

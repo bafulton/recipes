@@ -2,6 +2,9 @@
 label: Apple cranberry casserole
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Huffmans' Apple Cranberry Casserole

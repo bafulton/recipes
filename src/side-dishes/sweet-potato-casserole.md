@@ -2,6 +2,9 @@
 label: Sweet potato casserole
 tags: []
 categories: [Unknown]
+authors:
+  - name: Unknown
+    link: /categories/unknown
 ---
 
 Filling:
