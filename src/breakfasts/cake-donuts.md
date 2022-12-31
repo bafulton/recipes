@@ -21,16 +21,16 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-- 2 cups all-purpose flour
-- 1/2 cup white sugar
-- 1 tsp salt
-- 1 tbsp baking powder
-- 1/2 tsp ground cinnamon
-- 1/4 tsp ground nutmeg
-- 2 tbsp melted butter
-- 1/2 cup milk
-- 1 egg, beaten
-- 1 quart oil, for frying
+- [ ] 2 cups all-purpose flour
+- [ ] 1/2 cup white sugar
+- [ ] 1 tsp salt
+- [ ] 1 tbsp baking powder
+- [ ] 1/2 tsp ground cinnamon
+- [ ] 1/4 tsp ground nutmeg
+- [ ] 2 tbsp melted butter
+- [ ] 1/2 cup milk
+- [ ] 1 egg, beaten
+- [ ] 1 quart oil, for frying
 
 ## Instructions
 1. Mix dry ingredients in bowl.
