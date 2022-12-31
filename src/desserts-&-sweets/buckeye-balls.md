@@ -8,13 +8,18 @@ authors:
 route: /desserts-sweets/buckeye-balls
 ---
 
+# Buckeye Balls
+
+## Summary
+
+## Ingredients
 1 1/2 cups creamy peanut butter
 1 stick butter
 1 tsp vanilla
 3 1/2 cups powdered sugar
 2 packs semisweet chocolate ships
 
-
+## Instructions
 1. Combine peanut butter, butter, and vanilla in a mixer until creamy.
 2. Add powdered sugar 1 cup at a time. Final dough should be thick and slightly crumbly.
 3. Pat/combine by hand into a large ball.

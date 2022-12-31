@@ -1,15 +1,18 @@
 ---
 label: Carrot cake
 tags: []
-categories: [Unknown]
+categories: [Ben Fulton]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Ben Fulton
+    link: /categories/ben-fulton
 route: /desserts-sweets/carrot-cake
 ---
 
-Ben's Carrot Cake
+# Carrot Cake
 
+## Summary
+
+## Ingredients: Cake
 4 eggs
 3/4 cup canola oil
 1/2 cup applesauce
@@ -28,12 +31,14 @@ Ben's Carrot Cake
 3 cups grated carrots (or more)
 1 cup loosely chopped pecans (toasted, optionally)
 
+## Ingredients: Frosting
 4 cups powdered sugar
 8 ounces cream cheese, softened
 1/2-3/4 stick unsalted butter, softened
 1 tsp vanilla extract
 1 cup chopped pecans (optional) (toasted, optionally)
 
+## Instructions
 oven -> 350
 grease & flour a 9x13 pan (or 2 9-inch round pans)
 beat together eggs, oil, applesauce, sugars, and vanilla

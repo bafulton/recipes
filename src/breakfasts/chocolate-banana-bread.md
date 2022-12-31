@@ -7,10 +7,13 @@ authors:
     link: /categories/unknown
 ---
 
+# Chocolate Banana Bread
+
+## Summary
 https://www.onceuponachef.com/recipes/chocolate-banana-bread.html
 
 
-INGREDIENTS:
+## Ingredients
 
 1 1/2 cups all-purpose flour
 3/4 cup cocoa
@@ -27,7 +30,7 @@ INGREDIENTS:
 2 cups semisweet chocolate chips
 
 
-INSTRUCTIONS:
+## Instructions
 
 oven -> 350
 grease two loaf pans

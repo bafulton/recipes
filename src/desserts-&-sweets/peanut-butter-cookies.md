@@ -8,6 +8,11 @@ authors:
 route: /desserts-sweets/peanut-butter-cookies
 ---
 
+# Peanut Butter Cookies
+
+## Summary
+
+## Ingredients
 1 c butter (2 sticks) softened
 1 c peanut butter (crunchy or creamy)
 1 c white sugar
@@ -22,6 +27,7 @@ route: /desserts-sweets/peanut-butter-cookies
 
 1 c chopped peanuts (less if chunky peanut butter)
 
+## Instructions
 oven -> 375
 cream butter, sugars, peanut butter
 beat in eggs

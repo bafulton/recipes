@@ -1,4 +1,4 @@
-`---
+---
 label: Cherry danish
 tags: []
 categories: [Unknown]
@@ -6,9 +6,12 @@ authors:
   - name: Unknown
     link: /categories/unknown
 ---
-`
-Huffmans' Cherry Danish
 
+# Huffmans' Cherry Danish
+
+## Summary
+
+## Ingredients: Danish
 2 cans crescent roll dough
 2 8-oz packages cream cheese
 1 can cherry pie filling
@@ -16,11 +19,12 @@ Huffmans' Cherry Danish
 1 tsp vanilla
 1 egg white
 
+## Ingredients: Glaze
 3 tbsp milk
 3/4 cup powdered sugar
 1/4 tsp vanilla (optional)
 
-
+## Instructions
 oven -> 350
 grease 9x13 pan
 unroll 1 can of crescent roll dough and press into bottom of pan

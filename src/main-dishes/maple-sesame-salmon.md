@@ -7,8 +7,11 @@ authors:
     link: /categories/unknown
 ---
 
-Ingredients:
+# Maple Sesame Salmon
 
+## Summary
+
+## Ingredients
 2 pounds of salmon fillets
 1/3 cup pure maple syrup
 2 Tablespoons soy sauce
@@ -16,10 +19,7 @@ Ingredients:
 2 teaspoons minced garlic
 1/4 cup sesame seeds
 
-
-
-Instructions:
-
+## Instructions
 1. Preheat oven to 375.
 2. Place salmon fillets into a foil-lined pan.
 3. Whisk together maple syrup, soy sauce, sesame oil, and minced garlic.

@@ -1,15 +1,18 @@
 ---
-label: Donuts
+label: Cake Donuts
 tags: []
-categories: [Unknown]
+categories: [Ben Fulton]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Ben Fulton
+    link: /categories/ben-fulton
 ---
 
+# Cake Donuts
+
+## Summary
 https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/
 
-Ingredients:
+## Ingredients
 - 2 cups all-purpose flour
 - 1/2 cup white sugar
 - 1 tsp salt
@@ -21,7 +24,7 @@ Ingredients:
 - 1 egg, beaten
 - 1 quart oil, for frying
 
-Instructions:
+## Instructions
 1. Mix dry ingredients in bowl.
 2. Add melted butter and mix until crumbly.
 3. Stir in egg and milk until smooth. Knead lightly.

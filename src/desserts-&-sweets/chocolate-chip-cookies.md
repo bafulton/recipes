@@ -1,10 +1,10 @@
 ---
 label: Chocolate chip cookies
 tags: []
-categories: [Unknown]
+categories: [Betsy Fulton]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Betsy Fulton
+    link: /categories/betsy-fulton
 route: /desserts-sweets/chocolate-chip-cookies
 ---
 

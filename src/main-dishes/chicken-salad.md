@@ -1,14 +1,18 @@
 ---
 label: Chicken salad
 tags: []
-categories: [Unknown]
+categories: [Emilie Huffman]
 authors:
-  - name: Unknown
-    link: /categories/unknown
+  - name: Emilie Huffman
+    link: /categories/emilie-huffman
 ---
 
-Emilie's Chicken Salad
+# Chicken Salad
 
+## Summary
+Makes 6 sandwiches.
+
+## Ingredients
 3 cans chicken
 1/4 cup chopped pecans
 1/2 cup mayonnaise
@@ -19,4 +23,4 @@ Emilie's Chicken Salad
 1/2 lemon, juiced
 salt and pepper, to taste
 
-Makes 6 sandwiches.
+## Instructions

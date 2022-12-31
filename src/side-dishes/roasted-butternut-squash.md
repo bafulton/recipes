@@ -7,7 +7,12 @@ authors:
     link: /categories/unknown
 ---
 
-Ingredients:
+# Roasted Butternut Squash
+
+## Summary
+https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-turmeric/
+
+## Ingredients
 - 1 medium butternut squash (~3 lbs)
 - 2 tbsp olive oil
 - 2 tsp paprika (smoked paprika, if available)
@@ -15,11 +20,9 @@ Ingredients:
 - 1/2 tsp ground turmeric
 - 1/2 tsp garlic powder
 
-Instructions:
+## Instructions
 1. Preheat oven to 375.
 2. Peel the squash, slice it in two, and remove the seeds. Dice the squash flesh into ~1/2 inch cubes.
 3. Mix all ingredients together until the squash chunks are well coated.
 4. Spread the chunks out on a baking pan, and roast for 35 minutes, until the squash is tender.
 5. Serve warm.
-
-https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-turmeric/
