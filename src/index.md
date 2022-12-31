@@ -9,6 +9,6 @@ variant="light" iconAlign="right" icon="paper-airplane" text="suggest it"](https
 
 !!! success
 If you're looking for inspiration on what to make, check out [!badge
-corners="pill" size="s" variant="light" text="Authors"](./categories) or [!badge
+corners="pill" size="s" variant="light" text="Contributors"](./categories) or [!badge
 corners="pill" size="s" variant="light" text="Tags"](./tags).
 !!!
