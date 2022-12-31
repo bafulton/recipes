@@ -22,5 +22,5 @@ Simple/etc.
 ## Ingredients
 ## Steps
 ## Resources
-![](/static/archive/Kringla 1.jpg)
-![](/static/archive/Kringla 2.jpg)
+![](/static/archive/kringla-front.jpg)
+![](/static/archive/kringla-back.jpg)
