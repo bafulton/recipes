@@ -9,7 +9,7 @@ route: /desserts-sweets/peanut-butter-cookies
 ---
 
 # Peanut Butter Cookies
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

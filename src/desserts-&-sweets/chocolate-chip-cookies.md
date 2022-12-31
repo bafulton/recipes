@@ -9,7 +9,7 @@ route: /desserts-sweets/chocolate-chip-cookies
 ---
 
 # Chocolate Chips
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

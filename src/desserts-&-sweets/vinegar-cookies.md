@@ -9,7 +9,7 @@ route: /desserts-sweets/vinegar-cookies
 ---
 
 # Vinegar Cookies
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

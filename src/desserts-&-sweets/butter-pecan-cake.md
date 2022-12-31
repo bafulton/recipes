@@ -9,7 +9,7 @@ route: /desserts-sweets/butter-pecan-cake
 ---
 
 # Butter Pecan Cake
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

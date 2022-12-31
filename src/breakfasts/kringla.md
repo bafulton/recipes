@@ -8,7 +8,7 @@ authors:
 ---
 
 # Kringla
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min
@@ -22,3 +22,5 @@ Simple/etc.
 ## Ingredients
 ## Steps
 ## Resources
+![](/static/archive/Kringla 1.jpg)
+![](/static/archive/Kringla 2.jpg)

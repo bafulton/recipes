@@ -9,7 +9,7 @@ route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 ---
 
 # White Chocolate Macadamia Nut Cookies
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

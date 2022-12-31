@@ -8,7 +8,7 @@ authors:
 ---
 
 # Chocolate Banana Bread
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

@@ -8,7 +8,7 @@ authors:
 ---
 
 # Roasted Butternut Squash
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

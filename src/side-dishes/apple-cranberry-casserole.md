@@ -8,7 +8,7 @@ authors:
 ---
 
 # Apple Cranberry Casserole
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

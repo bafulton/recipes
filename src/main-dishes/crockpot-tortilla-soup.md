@@ -8,7 +8,7 @@ authors:
 ---
 
 # Crockpot Tortilla Soup
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

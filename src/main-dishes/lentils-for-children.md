@@ -9,7 +9,7 @@ authors:
 
 
 # Lentils for Children
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

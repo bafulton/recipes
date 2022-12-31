@@ -9,7 +9,7 @@ route: /desserts-sweets/kisslings
 ---
 
 # Kisslings
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

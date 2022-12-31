@@ -8,7 +8,7 @@ authors:
 ---
 
 # Sweet Potato Casserole
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

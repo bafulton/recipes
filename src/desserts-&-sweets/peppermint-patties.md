@@ -9,7 +9,7 @@ route: /desserts-sweets/peppermint-patties
 ---
 
 # Peppermint Patties
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

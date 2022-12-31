@@ -8,7 +8,7 @@ authors:
 ---
 
 # Kale Salad
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

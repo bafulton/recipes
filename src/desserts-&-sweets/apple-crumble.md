@@ -9,7 +9,7 @@ route: /desserts-sweets/apple-crumble
 ---
 
 # Apple Crumble
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

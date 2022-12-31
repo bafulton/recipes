@@ -9,7 +9,7 @@ route: /desserts-sweets/buckeye-balls
 ---
 
 # Buckeye Balls
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

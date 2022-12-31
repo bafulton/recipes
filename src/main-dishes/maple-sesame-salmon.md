@@ -8,7 +8,7 @@ authors:
 ---
 
 # Maple Sesame Salmon
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

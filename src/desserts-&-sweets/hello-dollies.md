@@ -9,7 +9,7 @@ route: /desserts-sweets/hello-dollies
 ---
 
 # Hello Dollies
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

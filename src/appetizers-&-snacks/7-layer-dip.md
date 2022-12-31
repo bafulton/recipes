@@ -9,7 +9,7 @@ route: /appetizers-snacks/7-layer-dip
 ---
 
 # 7-layer Dip
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

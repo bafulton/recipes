@@ -8,7 +8,7 @@ authors:
 ---
 
 # Cherry Danish
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min

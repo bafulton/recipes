@@ -8,7 +8,7 @@ authors:
 ---
 
 # Cake Donuts
-<!--- ![](/static/images/???.webp) --->
+<!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
 ??? min
