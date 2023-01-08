@@ -24,5 +24,5 @@ Simple/etc.
 ## Steps
 ## Resources
 ==- Original recipe
-![](/static/archive/lentils-for-children.jpg)
+![](/static/recipes/lentils-for-children.jpg)
 ===

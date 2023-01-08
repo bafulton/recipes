@@ -23,7 +23,7 @@ Simple/etc.
 ## Steps
 ## Resources
 ==- Original recipe (front)
-![](/static/archive/kringla-front.jpg)
+![](/static/recipes/kringla-front.jpg)
 ==- Original recipe (back)
-![](/static/archive/kringla-back.jpg)
+![](/static/recipes/kringla-back.jpg)
 ===

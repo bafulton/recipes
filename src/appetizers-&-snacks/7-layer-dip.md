@@ -42,5 +42,5 @@ This is a very popular Christmas snacking dish in the Huffman family. It's a gre
 
 ## Resources
 ==- Original recipe
-![](/static/archive/7-layer-dip.jpg)
+![](/static/recipes/7-layer-dip.jpg)
 ===

@@ -41,5 +41,5 @@ Simple/etc.
 
 ## Resources
 ==- Original recipe
-![](/static/archive/kisslings.jpg)
+![](/static/recipes/kisslings.jpg)
 ===

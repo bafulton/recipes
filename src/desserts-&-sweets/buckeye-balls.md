@@ -40,5 +40,5 @@ Simple/etc.
 
 ## Resources
 ==- Original recipe
-![](/static/archive/buckeye-balls.jpg)
+![](/static/recipes/buckeye-balls.jpg)
 ===

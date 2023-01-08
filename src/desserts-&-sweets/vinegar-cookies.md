@@ -24,5 +24,5 @@ Simple/etc.
 ## Steps
 ## Resources
 ==- Original recipe
-![](/static/archive/vinegar-cookies.jpg)
+![](/static/recipes/vinegar-cookies.jpg)
 ===
