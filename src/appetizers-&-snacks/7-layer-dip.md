@@ -12,16 +12,37 @@ route: /appetizers-snacks/7-layer-dip
 <!--- ![](/static/banners/???.webp) --->
 
 ||| Prep Time
-??? min
+30-45 minutes
 ||| Makes
-??? portions/etc.
+1 9x13 pan
 ||| Complexity
-Simple/etc.
+Simple
 |||
 
 ## Summary
+Very popular Christmas snacking dish in the Huffman family.
+
 ## Ingredients
+- 1 can refried beans (16 oz)
+- 1/2 package taco seasoning
+- 2 avocados
+- 1 package guacamole mix
+- 1 carton sour cream (8 oz)
+- 1 can diced black olives (4 oz)
+- 1 can rotel (diced tomatoes and green chilis)
+- 1 onion, finely chopped
+- 1/2 package shredded cheese (2 cups)
+- 1+ bags tortilla chips
+
 ## Steps
+1. Combine the refried beans and taco seasoning and spread the bean mixture evenly across the bottom of a 9x13 serving dish.
+2. Make guacamole with the avocados and guacamole mix and spread on top of the bean mixture.
+3. Layer remaining ingredients in the order listed.
+4. Serve with tortilla chips.
+
 ## Resources
+=== Original recipe
 ![](/static/archive/7-layer-dip.jpg)
+=== Recipe comments
 ![](/static/archive/7-layer-dip-comments.png)
+===
