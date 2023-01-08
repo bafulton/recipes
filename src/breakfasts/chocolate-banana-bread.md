@@ -49,6 +49,4 @@ bake for 40-45 minutes, until toothpick comes out clean
 cool for 15 minutes before removing from pans
 
 ## Resources
-==- Recipe source
-https://www.onceuponachef.com/recipes/chocolate-banana-bread.html
-===
+[!ref target="blank" text="Recipe source"](https://www.onceuponachef.com/recipes/chocolate-banana-bread.html)

@@ -23,6 +23,4 @@ Simple/etc.
 ## Ingredients
 ## Instructions
 ## Resources
-==- Recipe source
-https://insanelygoodrecipes.com/hello-dolly-bars/
-===
+[!ref target="blank" text="Recipe source"](https://insanelygoodrecipes.com/hello-dolly-bars/)
