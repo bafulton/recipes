@@ -14,13 +14,13 @@ route: /appetizers-snacks/7-layer-dip
 ||| Prep Time
 30-45 minutes
 ||| Makes
-1 9x13 pan
+One 9x13 pan
 ||| Complexity
 Simple
 |||
 
 ## Summary
-Very popular Christmas snacking dish in the Huffman family.
+This is a very popular Christmas snacking dish in the Huffman family. It's a great way to balance out all those sugary Christmas cookies!
 
 ## Ingredients
 - 1 can refried beans (16 oz)
@@ -41,8 +41,6 @@ Very popular Christmas snacking dish in the Huffman family.
 4. Serve with tortilla chips.
 
 ## Resources
-=== Original recipe
+==- Original recipe
 ![](/static/archive/7-layer-dip.jpg)
-=== Recipe comments
-![](/static/archive/7-layer-dip-comments.png)
 ===
