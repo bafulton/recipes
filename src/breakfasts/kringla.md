@@ -22,5 +22,8 @@ Simple/etc.
 ## Ingredients
 ## Steps
 ## Resources
+==- Original recipe (front)
 ![](/static/archive/kringla-front.jpg)
+==- Original recipe (back)
 ![](/static/archive/kringla-back.jpg)
+===

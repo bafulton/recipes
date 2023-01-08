@@ -34,4 +34,6 @@ Simple/etc.
 3. Serve warm/hot.
 
 ## Resources
+==- Recipe source
 https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/
+===

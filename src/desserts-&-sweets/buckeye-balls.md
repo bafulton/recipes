@@ -22,11 +22,11 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-1 1/2 cups creamy peanut butter
-1 stick butter
-1 tsp vanilla
-3 1/2 cups powdered sugar
-2 packs semisweet chocolate ships
+- 1 1/2 cups creamy peanut butter
+- 1 stick butter
+- 1 tsp vanilla
+- 3 1/2 cups powdered sugar
+- 2 packs semisweet chocolate ships
 
 ## Instructions
 1. Combine peanut butter, butter, and vanilla in a mixer until creamy.
@@ -39,4 +39,6 @@ Simple/etc.
 8. Chill for at least 30 minutes.
 
 ## Resources
+==- Original recipe
 ![](/static/archive/buckeye-balls.jpg)
+===

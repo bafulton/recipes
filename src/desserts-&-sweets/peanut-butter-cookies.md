@@ -22,25 +22,25 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-1 c butter (2 sticks) softened
-1 c peanut butter (crunchy or creamy)
-1 c white sugar
-1 c brown sugar
+- 1 c butter (2 sticks) softened
+- 1 c peanut butter (crunchy or creamy)
+- 1 c white sugar
+- 1 c brown sugar
 
-2 eggs
+- 2 eggs
 
-2 1/2 c flour
-1/2 tsp salt (more if butter was unsalted)
-1 tsp baking powder
-1 1/2 tsp baking soda
+- 2 1/2 c flour 
+- 1/2 tsp salt (more if butter was unsalted)
+- 1 tsp baking powder 
+- 1 1/2 tsp baking soda
 
-1 c chopped peanuts (less if chunky peanut butter)
+- 1 c chopped peanuts (less if chunky peanut butter)
 
 ## Instructions
-oven -> 375
-cream butter, sugars, peanut butter
-beat in eggs
-gradually add flour mixture
-cool in fridge for 30 minutes-1 hour (optional--increases cookie height)
-roll into 1 inch balls, criss-cross with fork
-bake 10 minutes, until edges begin to brown
+1. oven -> 375 
+2. cream butter, sugars, peanut butter 
+3. beat in eggs 
+4. gradually add flour mixture 
+5. cool in fridge for 30 minutes-1 hour (optional--increases cookie height)
+6. roll into 1 inch balls, criss-cross with fork 
+7. bake 10 minutes, until edges begin to brown

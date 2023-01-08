@@ -23,4 +23,6 @@ Simple/etc.
 ## Ingredients
 ## Steps
 ## Resources
+==- Original recipe
 ![](/static/archive/lentils-for-children.jpg)
+===

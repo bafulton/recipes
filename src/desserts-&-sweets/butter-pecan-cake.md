@@ -23,5 +23,8 @@ Simple/etc.
 ## Ingredients
 ## Steps
 ## Resources
+==- Original recipe (front)
 ![](/static/archive/butter-pecan-cake-front.jpg)
+==- Original recipe (back)
 ![](/static/archive/butter-pecan-cake-back.jpg)
+===

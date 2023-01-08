@@ -21,13 +21,14 @@ Simple/etc.
 
 ## Summary
 
-## Ingredients: Filling
+## Ingredients
+### Filling
 - 12-18 chopped apples (size-dependent), enough to fill a 9x13 dish mostly full
 - 1 cup sugar
 - 1 tsp cinnamon
 - 2 tsp vanilla
 
-## Ingredients: Topping
+### Topping
 - 1 cup flour
 - 1 cup old-fashioned oats
 - 1 1/3 cups brown sugar
@@ -38,7 +39,7 @@ Simple/etc.
 - 1+ cup chopped pecans (optional) (toasted, optionally)
 
 ## Instructions
-oven -> 350
-make filling (ensure apples are evenly coated), pour into 9x13 pan
-make topping (add butter last and stir until crumbly), place on top of filling
-bake 45-60 minutes, until topping looks golden brown
+1. oven -> 350
+2. make filling (ensure apples are evenly coated), pour into 9x13 pan
+3. make topping (add butter last and stir until crumbly), place on top of filling
+4. bake 45-60 minutes, until topping looks golden brown

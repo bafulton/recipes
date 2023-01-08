@@ -35,7 +35,7 @@ This is a very popular Christmas snacking dish in the Huffman family. It's a gre
 - 1+ bags tortilla chips
 
 ## Steps
-1. Combine the refried beans and taco seasoning and spread the bean mixture evenly across the bottom of a 9x13 serving dish.
+1. Combine the refried beans and taco seasoning and spread the mixture evenly across the bottom of a 9x13 serving dish.
 2. Make guacamole with the avocados and guacamole mix and spread on top of the bean mixture.
 3. Layer remaining ingredients in the order listed.
 4. Serve with tortilla chips.

@@ -21,12 +21,12 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-2 pounds of salmon fillets
-1/3 cup pure maple syrup
-2 Tablespoons soy sauce
-2 Tablespoons sesame oil
-2 teaspoons minced garlic
-1/4 cup sesame seeds
+- 2 pounds of salmon fillets
+- 1/3 cup pure maple syrup
+- 2 Tablespoons soy sauce
+- 2 Tablespoons sesame oil
+- 2 teaspoons minced garlic
+- 1/4 cup sesame seeds
 
 ## Instructions
 1. Preheat oven to 375.
