@@ -22,13 +22,13 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-### Filling
+#### Filling
 - 12-18 chopped apples (size-dependent), enough to fill a 9x13 dish mostly full
 - 1 cup sugar
 - 1 tsp cinnamon
 - 2 tsp vanilla
 
-### Topping
+#### Topping
 - 1 cup flour
 - 1 cup old-fashioned oats
 - 1 1/3 cups brown sugar

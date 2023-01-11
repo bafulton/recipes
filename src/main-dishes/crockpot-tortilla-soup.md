@@ -21,7 +21,7 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-### Soup
+#### Soup
 - 1 package soy curls (or about 2 cups of beans, tempeh, or your favorite protein here)
 - 1 large can of chopped tomatoes 
 - 1 can of tomato sauce 
@@ -39,7 +39,7 @@ Simple/etc.
 - Optional: 2 teaspoons ground chipotle powder (or 1 chipotle pepper in adobo sauce chopped fine)
 - Optional: 1/4 cup chopped cilantro (if you hate cilantro just leave it out, don't add parsley)
 
-### Additional Toppings
+#### Additional Toppings
 - lime wedges 
 - chopped green onion 
 - cilantro 

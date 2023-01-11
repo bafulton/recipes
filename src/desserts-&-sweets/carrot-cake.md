@@ -22,7 +22,7 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-### Cake
+#### Cake
 - 4 eggs
 - 3/4 cup canola oil
 - 1/2 cup applesauce
@@ -39,7 +39,7 @@ Simple/etc.
 - 3 cups grated carrots (or more)
 - 1 cup loosely chopped pecans (toasted, optionally)
 
-### Frosting
+#### Frosting
 - 4 cups powdered sugar
 - 8 ounces cream cheese, softened
 - 1/2-3/4 stick unsalted butter, softened
@@ -47,7 +47,7 @@ Simple/etc.
 - 1 cup chopped pecans (optional) (toasted, optionally)
 
 ## Instructions
-### Cake
+#### Cake
 1. oven -> 350
 2. grease & flour a 9x13 pan (or 2 9-inch round pans)
 3. beat together eggs, oil, applesauce, sugars, and vanilla 
@@ -58,7 +58,7 @@ Simple/etc.
 8. bake 40-50 mins, until toothpick in center comes out clean 
 9. cool for 10 minutes, then turn onto wire rack to cool completely
 
-### Frosting
+#### Frosting
 1. combine butter, cream cheese, powdered sugar, and vanilla
 2. beat until smooth and creamy
 3. stir in chopped pecans
