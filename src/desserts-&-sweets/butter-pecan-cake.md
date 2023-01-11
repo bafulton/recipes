@@ -21,7 +21,7 @@ Simple/etc.
 
 ## Summary
 ## Ingredients
-## Steps
+## Instructions
 ## Resources
 ==- Original recipe (front)
 ![](/static/recipes/butter-pecan-cake-front.jpg)

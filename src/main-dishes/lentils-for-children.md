@@ -21,7 +21,7 @@ Simple/etc.
 
 ## Summary
 ## Ingredients
-## Steps
+## Instructions
 ## Resources
 ==- Original recipe
 ![](/static/recipes/lentils-for-children.jpg)

@@ -20,7 +20,7 @@ Simple/etc.
 
 ## Summary
 ## Ingredients
-## Steps
+## Instructions
 ## Resources
 ==- Original recipe (front)
 ![](/static/recipes/kringla-front.jpg)

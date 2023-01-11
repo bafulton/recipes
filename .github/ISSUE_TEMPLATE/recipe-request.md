@@ -48,7 +48,7 @@ Medium
 - 2 ts pepper
 - ...
 
-## Steps
+## Instructions
 
 1. First...
 ```
