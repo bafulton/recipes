@@ -22,17 +22,17 @@ Simple/etc.
 
 ## Ingredients
 ### Danish
-2 cans crescent roll dough
-2 8-oz packages cream cheese
-1 can cherry pie filling
-3/4 cup powdered sugar
-1 tsp vanilla
-1 egg white
+- 2 cans crescent roll dough
+- 2 8-oz packages cream cheese
+- 1 can cherry pie filling
+- 3/4 cup powdered sugar
+- 1 tsp vanilla
+- 1 egg white
 
 ### Glaze
-3 tbsp milk
-3/4 cup powdered sugar
-1/4 tsp vanilla (optional)
+- 3 tbsp milk
+- 3/4 cup powdered sugar
+- 1/4 tsp vanilla (optional)
 
 ## Instructions
 ### Crust
