@@ -51,5 +51,5 @@ Simple/etc.
 6. let cool for 5-10 minutes
 
 #### Glaze
-1. combine 3/4 cup powdered sugar, milk, and vanilla in bowl and mix until smooth
+1. combine ¾ cup powdered sugar, milk, and vanilla in bowl and mix until smooth
 2. drizzle over the danish

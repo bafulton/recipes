@@ -43,7 +43,7 @@ Simple/etc.
 5. Mix dry ingredients into wet ingredients at a low speed. Dough should be thick and sticky.
 6. Divide dough in half, pat both halves into rough disc shapes, wrap them tightly in plastic wrap, and store them overnight in the fridge.
 7. Preheat oven to 350 degrees.
-8. Roll out discs until they're 1/4 inch thick, using flour as needed.
+8. Roll out discs until they're ¼ inch thick, using flour as needed.
 9. Use cookie cutters, place cookies on baking sheets lined with baking parchment.
 10. Bake cookies for 9-10 minutes, rotating as needed. Do not overbake.
 11. Let cookies cool, and decorate.
