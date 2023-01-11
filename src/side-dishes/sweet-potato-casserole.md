@@ -20,7 +20,8 @@ Simple/etc.
 
 ## Summary
 
-## Ingredients: Filling
+## Ingredients
+#### Filling
 - 3-4 large sweet potatoes
 - ½ stick butter
 - ½ cup milk
@@ -29,7 +30,7 @@ Simple/etc.
 - ½ tsp salt
 - 2 eggs
 
-## Ingredients: Topping
+#### Topping
 - ½ cup flour
 - ½ cup brown sugar
 - ½ stick butter, melted

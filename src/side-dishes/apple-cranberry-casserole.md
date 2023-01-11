@@ -21,12 +21,13 @@ Simple/etc.
 ## Summary
 Huffmans' Apple Cranberry Casserole
 
-## Ingredients: Filling
+## Ingredients
+#### Filling
 - 3 cups apples, chopped
 - 2 cups raw cranberries
 - 1 ¼ white cups sugar
 
-## Ingredients: Topping
+#### Topping
 - 1 ½ cup old fashioned oats
 - ½ cup brown sugar, packed
 - ½ cup flour
