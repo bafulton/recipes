@@ -22,10 +22,10 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-- 1 1/2 cups creamy peanut butter
+- 1 ½ cups creamy peanut butter
 - 1 stick butter
 - 1 tsp vanilla
-- 3 1/2 cups powdered sugar
+- 3 ½ cups powdered sugar
 - 2 packs semisweet chocolate ships
 
 ## Instructions

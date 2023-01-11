@@ -24,9 +24,9 @@ Simple/etc.
 - 1 medium butternut squash (~3 lbs)
 - 2 tbsp olive oil
 - 2 tsp paprika (smoked paprika, if available)
-- 3/4 tsp salt
-- 1/2 tsp ground turmeric
-- 1/2 tsp garlic powder
+- ¾ tsp salt
+- ½ tsp ground turmeric
+- ½ tsp garlic powder
 
 ## Instructions
 1. Preheat oven to 375.

@@ -27,10 +27,10 @@ Simple/etc.
 - 1 c white sugar
 - 1 c brown sugar
 - 2 eggs
-- 2 1/2 c flour 
-- 1/2 tsp salt (more if butter was unsalted)
+- 2 ½ c flour 
+- ½ tsp salt (more if butter was unsalted)
 - 1 tsp baking powder 
-- 1 1/2 tsp baking soda
+- 1 ½ tsp baking soda
 - 1 c chopped peanuts (less if chunky peanut butter)
 
 ## Instructions

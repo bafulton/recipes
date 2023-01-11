@@ -25,7 +25,7 @@ Simple/etc.
 - 2 cups cranberry juice
 - 1 tbsp white sugar
 - 1 tbsp brown sugar
-- 1/2 tsp whole cloves
+- ½ tsp whole cloves
 - 2 sticks cinnamon
 
 ## Instructions

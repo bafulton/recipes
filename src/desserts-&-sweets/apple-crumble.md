@@ -31,11 +31,11 @@ Simple/etc.
 #### Topping
 - 1 cup flour
 - 1 cup old-fashioned oats
-- 1 1/3 cups brown sugar
+- 1 ⅓ cups brown sugar
 - 1 tsp cinnamon
-- 1/4 tsp nutmeg
-- 1/2 tsp salt (more if using unsalted butter)
-- 1 1/2 sticks butter, melted
+- ¼ tsp nutmeg
+- ½ tsp salt (more if using unsalted butter)
+- 1 ½ sticks butter, melted
 - 1+ cup chopped pecans (optional) (toasted, optionally)
 
 ## Instructions

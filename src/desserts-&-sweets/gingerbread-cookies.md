@@ -22,18 +22,18 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-- 1 1/4 sticks butter, room temperature
-- 3/4 cup dark brown sugar
-- 2/3 cup molasses
+- 1 ¼ sticks butter, room temperature
+- ¾ cup dark brown sugar
+- ⅔ cup molasses
 - 1 large egg, room temperature
 - 1 tsp vanilla extract
-- 3 1/2 cups flour
+- 3 ½ cups flour
 - 1 tsp baking soda
-- 1/2 tsp salt
+- ½ tsp salt
 - 1 tbsp ground ginger
 - 1 tbsp ground cinnamon
-- 1/2 tsp ground allspice
-- 1/2 tsp ground cloves
+- ½ tsp ground allspice
+- ½ tsp ground cloves
 
 ## Instructions
 1. Beat butter on medium speed until completely smooth (~1 minute).

@@ -26,8 +26,8 @@ Jeannine’s Peppermint Patties
 - 1 8oz. pkg. cream cheese softened
 - 1 teaspoon peppermint extract
 - 9 cups confectioner’s sugar 
-- 1 1/2 cups semi-sweet chocolate chips 
-- 1 1/2 cups milk chocolate chips 
+- 1 ½ cups semi-sweet chocolate chips 
+- 1 ½ cups milk chocolate chips 
 - 6 Tablespoons shortening
 
 ## Instructions

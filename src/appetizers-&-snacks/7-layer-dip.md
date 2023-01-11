@@ -24,14 +24,14 @@ This is a very popular Christmas snacking dish in the Huffman family. It's a gre
 
 ## Ingredients
 - 1 can refried beans (16 oz)
-- 1/2 package taco seasoning
+- ½ package taco seasoning
 - 2 avocados
 - 1 package guacamole mix
 - 1 carton sour cream (8 oz)
 - 1 can diced black olives (4 oz)
 - 1 can rotel (diced tomatoes and green chilis)
 - 1 onion, finely chopped
-- 1/2 package shredded cheese (2 cups)
+- ½ package shredded cheese (2 cups)
 - 1+ bags tortilla chips
 
 ## Steps

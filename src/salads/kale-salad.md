@@ -22,16 +22,16 @@ Simple/etc.
 
 ## Ingredients: Salad
 - 1 bag kale (~8 oz)
-- 1/2 cup dried cranberries
-- 1/2 cup toasted pecans
+- ½ cup dried cranberries
+- ½ cup toasted pecans
 - 1 medium apple (preferably tart; eg, Granny Smith)
 - 2 oz soft goat cheese, chilled
 
 ## Ingredients: Dressing
 - 3 tbssp olive oil
-- 1 1/2 tbsp apple cider vinegar (or red wine)
+- 1 ½ tbsp apple cider vinegar (or red wine)
 - 1 tbsp smooth dijon mustard
-- 1 1/2 tsp honey or maple syrup
+- 1 ½ tsp honey or maple syrup
 - sea salt
 - pepper
 

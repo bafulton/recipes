@@ -22,13 +22,13 @@ Simple/etc.
 
 ## Ingredients
 - 2 cups all-purpose flour
-- $\frac{1}{2}$ cup white sugar
+- ½ cup white sugar
 - 1 tsp salt
 - 1 tbsp baking powder
 - ½ tsp ground cinnamon
-- 1/4 tsp ground nutmeg
+- ¼ tsp ground nutmeg
 - 2 tbsp melted butter
-- 1/2 cup milk
+- ½ cup milk
 - 1 egg, beaten
 - 1 quart oil, for frying
 

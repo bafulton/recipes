@@ -23,15 +23,15 @@ Simple/etc.
 
 ## Ingredients
 - 1 c butter (2 sticks) softened 
-- 1/2 c sugar 
-- 3/4 c brown sugar 
+- ½ c sugar 
+- ¾ c brown sugar 
 - 1 tsp almond 
-- 1/2 tsp vanilla
+- ½ tsp vanilla
 - 2 eggs
-- 2 1/2 c flour 
+- 2 ½ c flour 
 - 1 tsp baking soda 
-- 1/2 tsp salt (more if butter was unsalted)
-- 1 c (1/2 pkg) white chocolate chips
+- ½ tsp salt (more if butter was unsalted)
+- 1 c (½ pkg) white chocolate chips
 - 1 c coarsely chopped macadamia nuts
 
 ## Instructions

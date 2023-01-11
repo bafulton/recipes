@@ -23,11 +23,11 @@ Simple/etc.
 
 ## Ingredients
 - 1 c butter (2 sticks) softened
-- 3/4 c sugar 
-- 3/4 c brown sugar 
+- ¾ c sugar 
+- ¾ c brown sugar 
 - 1 tsp vanilla
 - 2 eggs
-- 2 1/4 c flour 
+- 2 ¼ c flour 
 - 1 tsp baking soda 
 - 1 tsp salt (more if butter was unsalted)
 - 1 pkg c c (2 cups)

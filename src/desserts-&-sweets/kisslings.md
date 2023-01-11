@@ -24,9 +24,9 @@ Simple/etc.
 ## Ingredients
 - 4 sticks butter straight from the fridge
 - 4 cups flour
-- 1/2 cup powdered sugar
+- ½ cup powdered sugar
 - 1 tsp vanilla
-- 2 1/2 cups pecans (2 cups chopped), optionally toasted
+- 2 ½ cups pecans (2 cups chopped), optionally toasted
 
 ## Instructions
 1. oven -> 325

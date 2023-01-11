@@ -22,19 +22,19 @@ Simple/etc.
 
 ## Ingredients: Filling
 - 3-4 large sweet potatoes
-- 1/2 stick butter
-- 1/2 cup milk
-- 1/4 cup brown sugar
+- ½ stick butter
+- ½ cup milk
+- ¼ cup brown sugar
 - 1 tsp vanilla
-- 1/2 tsp salt
+- ½ tsp salt
 - 2 eggs
 
 ## Ingredients: Topping
-- 1/2 cup flour
-- 1/2 cup brown sugar
-- 1/2 stick butter, melted
-- 1/4 tsp salt
-- 3/4 cup chopped pecans (toasted, optionally)
+- ½ cup flour
+- ½ cup brown sugar
+- ½ stick butter, melted
+- ¼ tsp salt
+- ¾ cup chopped pecans (toasted, optionally)
 - 1 cup oats (optional)
 
 ## Instructions

@@ -24,17 +24,17 @@ Simple/etc.
 ## Ingredients
 #### Cake
 - 4 eggs
-- 3/4 cup canola oil
-- 1/2 cup applesauce
+- ¾ cup canola oil
+- ½ cup applesauce
 - 1 cup white sugar
 - 1 cup brown sugar
 - 1 tbsp vanilla extract
 - 2 cups all-purpose flour
 - 2 tsp baking soda
 - 2 tsp baking powder
-- 1/2 tsp salt
+- ½ tsp salt
 - 1 tbsp ground cinnamon
-- 1/4 tsp nutmeg
+- ¼ tsp nutmeg
 - 1 cup crushed pineapple, drained
 - 3 cups grated carrots (or more)
 - 1 cup loosely chopped pecans (toasted, optionally)
@@ -42,7 +42,7 @@ Simple/etc.
 #### Frosting
 - 4 cups powdered sugar
 - 8 ounces cream cheese, softened
-- 1/2-3/4 stick unsalted butter, softened
+- ½ to ¾ stick unsalted butter, softened
 - 1 tsp vanilla extract
 - 1 cup chopped pecans (optional) (toasted, optionally)
 

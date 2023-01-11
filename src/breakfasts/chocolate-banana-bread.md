@@ -21,18 +21,16 @@ Simple/etc.
 ## Summary
 
 ## Ingredients
-- 1 1/2 cups all-purpose flour
-- 3/4 cup cocoa
-- 1 1/2 tsp baking soda
+- 1 ½ cups all-purpose flour
+- ¾ cup cocoa
+- 1 ½ tsp baking soda
 - 1 tsp salt (less if using salted butter)
-
 - 5 large brown bananas
 - 6 tbsp unsalted butter, melted
-- 1/3 cup vegetable oil
+- ⅓ cup vegetable oil
 - 1 cup brown sugar, packed
 - 2 medium eggs
 - 2 tsp vanilla extract
-
 - 2 cups semisweet chocolate chips
 
 ## Instructions
