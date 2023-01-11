@@ -25,7 +25,7 @@ Simple/etc.
 - $\frac{1}{2}$ cup white sugar
 - 1 tsp salt
 - 1 tbsp baking powder
-- 1/2 tsp ground cinnamon
+- ½ tsp ground cinnamon
 - 1/4 tsp ground nutmeg
 - 2 tbsp melted butter
 - 1/2 cup milk
