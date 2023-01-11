@@ -22,7 +22,7 @@ Simple/etc.
 
 ## Ingredients
 - 2 cups all-purpose flour
-- $\sfrac{1}{2}$ cup white sugar
+- $\frac{1}{2}$ cup white sugar
 - 1 tsp salt
 - 1 tbsp baking powder
 - 1/2 tsp ground cinnamon
