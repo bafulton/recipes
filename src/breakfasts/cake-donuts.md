@@ -22,7 +22,7 @@ Simple/etc.
 
 ## Ingredients
 - 2 cups all-purpose flour
-- 1/2 cup white sugar
+- $\frac{1}{2}$ cup white sugar
 - 1 tsp salt
 - 1 tbsp baking powder
 - 1/2 tsp ground cinnamon
@@ -35,8 +35,8 @@ Simple/etc.
 ## Instructions
 1. Mix dry ingredients in bowl.
 2. Add melted butter and mix until crumbly.
-3. Stir in egg and milk until smooth. Knead lightly.
-4. Roll to 1/4 inch thickness on a floured surface, and cut out donuts.
+3. Stir in milk and egg until smooth. Knead lightly.
+4. Roll to 1/4 inch thickness on a floured surface and cut out donuts.
 5. Fry in hot oil (375 degrees) until golden brown.
 
 ## Resources
