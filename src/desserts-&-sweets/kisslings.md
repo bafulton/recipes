@@ -43,7 +43,7 @@ Simple/etc.
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
-<!--- ![](/static/banners/tmp/???.webp) --->
+![](/static/banners/tmp/kisslings.jpg)
 ==- Recipe
 ![](/static/recipes/kisslings.jpg)
 ===
