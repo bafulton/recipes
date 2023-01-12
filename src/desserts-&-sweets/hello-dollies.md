@@ -24,11 +24,11 @@ Simple/etc.
 ## Instructions
 
 ## Resources
-[!ref target="blank" text="Recipe link"](https://insanelygoodrecipes.com/hello-dolly-bars/)
-[!ref target="blank" text="Recipe archive"](https://archive.is/O6P9P)
 ==- Picture
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
 <!--- ![](/static/banners/tmp/???.webp) --->
 ===
+[!ref target="blank" text="Recipe"](https://insanelygoodrecipes.com/hello-dolly-bars/)
+[!ref target="blank" text="Archive"](https://archive.is/O6P9P)

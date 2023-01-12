@@ -24,11 +24,11 @@ Simple/etc.
 ## Instructions
 
 ## Resources
-==- Original recipe
 ==- Picture
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
 <!--- ![](/static/banners/tmp/???.webp) --->
+==- Recipe
 ![](/static/recipes/lentils-for-children.jpg)
 ===

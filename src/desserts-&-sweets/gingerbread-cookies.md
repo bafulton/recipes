@@ -49,11 +49,11 @@ Simple/etc.
 11. Let cookies cool, and decorate.
 
 ## Resources
-[!ref target="blank" text="Recipe link"](https://sallysbakingaddiction.com/best-gingerbread-cookies/)
-[!ref target="blank" text="Recipe archive"](https://archive.is/lrNra)
 ==- Picture
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
 <!--- ![](/static/banners/tmp/???.webp) --->
 ===
+[!ref target="blank" text="Recipe"](https://sallysbakingaddiction.com/best-gingerbread-cookies/)
+[!ref target="blank" text="Archive"](https://archive.is/lrNra)

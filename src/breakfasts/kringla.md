@@ -28,8 +28,8 @@ Simple/etc.
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
 ![](/static/banners/tmp/kringla.webp)
-==- Original recipe (front)
+==- Recipe (front)
 ![](/static/recipes/kringla-front.jpg)
-==- Original recipe (back)
+==- Recipe (back)
 ![](/static/recipes/kringla-back.jpg)
 ===

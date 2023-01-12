@@ -47,5 +47,5 @@ This image was found on the internet. The actual recipe should look something li
 !!!
 ![](/static/banners/tmp/cake-donuts.webp)
 ===
-[!ref target="blank" text="Recipe link"](https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/)
-[!ref target="blank" text="Recipe archive"](https://archive.is/g8dEV)
+[!ref target="blank" text="Recipe"](https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/)
+[!ref target="blank" text="Archive"](https://archive.is/g8dEV)

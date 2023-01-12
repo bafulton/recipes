@@ -31,6 +31,6 @@ This image was found on the internet. The actual recipe should look something li
 <!--- ![](/static/banners/tmp/???.webp) --->
 ==- Recipe (front)
 ![](/static/recipes/butter-pecan-cake-front.jpg)
-==- Original recipe (back)
+==- Recipe (back)
 ![](/static/recipes/butter-pecan-cake-back.jpg)
 ===

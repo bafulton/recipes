@@ -45,6 +45,6 @@ Simple
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
 ![](/static/banners/tmp/7-layer-dip.webp)
-==- Original recipe
+==- Recipe
 ![](/static/recipes/7-layer-dip.jpg)
 ===

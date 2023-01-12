@@ -40,10 +40,12 @@ Simple/etc.
 6. Chop chives and serve alongside the potatoes.
 
 ## Resources
-https://www.bonappetit.com/recipe/mashed-baked-potatoes-with-chives
+## Resources
 ==- Picture
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
 <!--- ![](/static/banners/tmp/???.webp) --->
 ===
+[!ref target="blank" text="Recipe"](https://www.bonappetit.com/recipe/mashed-baked-potatoes-with-chives)
+[!ref target="blank" text="Archive"](https://archive.is/kS6Bq)
