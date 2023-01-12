@@ -8,7 +8,10 @@ authors:
 ---
 
 # Cake Donuts
-<!--- ![](/static/banners/???.webp) --->
+![](/static/banners/tmp/cake-donuts.webp)
+
+## Summary
+A cake donut recipe that's simple to make and lightly spiced with cinnamon and nutmeg.
 
 ||| Prep Time
 ??? min
@@ -18,13 +21,11 @@ authors:
 Simple/etc.
 |||
 
-## Summary
-
 ## Ingredients
 - 2 cups all-purpose flour
 - ½ cup white sugar
-- 1 tsp salt
 - 1 tbsp baking powder
+- 1 tsp salt
 - ½ tsp ground cinnamon
 - ¼ tsp ground nutmeg
 - 2 tbsp melted butter
@@ -37,7 +38,8 @@ Simple/etc.
 2. Add melted butter and mix until crumbly.
 3. Stir in milk and egg until smooth. Knead lightly.
 4. Roll to ¼ inch thickness on a floured surface and cut out donuts.
-5. Fry in hot oil (375 degrees) until golden brown.
+5. Fry in hot oil (375 degrees) until golden brown (about 3 minutes, flipping once).
+6. Coat with cinnamon sugar or powdered sugar glaze, or serve with raspberry jam.
 
 ## Resources
 [!ref target="blank" text="Recipe link"](https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/)

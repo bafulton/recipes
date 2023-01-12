@@ -8,7 +8,10 @@ authors:
 ---
 
 # Chocolate Banana Bread
-<!--- ![](/static/banners/???.webp) --->
+![](/static/banners/tmp/chocolate-banana-bread.webp)
+
+## Summary
+Chocolate chips and cocoa powder give this soft chocolate banana bread a deep chocolate flavor.
 
 ||| Prep Time
 ??? min
@@ -18,11 +21,9 @@ authors:
 Simple/etc.
 |||
 
-## Summary
-
 ## Ingredients
 - 1 ½ cups all-purpose flour
-- ¾ cup cocoa
+- ¾ cup cocoa powder
 - 1 ½ tsp baking soda
 - 1 tsp salt (less if using salted butter)
 - 5 large brown bananas
@@ -44,7 +45,3 @@ Simple/etc.
 8. sprinkle remaining chocolate chips over the top 
 9. bake for 40-45 minutes, until toothpick comes out clean 
 10. cool for 15 minutes before removing from pans
-
-## Resources
-[!ref target="blank" text="Recipe link"](https://www.onceuponachef.com/recipes/chocolate-banana-bread.html)
-[!ref target="blank" text="Recipe archive"](https://archive.is/oqQJM)
