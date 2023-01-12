@@ -43,3 +43,11 @@ Jeannine’s Peppermint Patties
 2. Use a fork to dip the patties in melted chocolate and place on waxed paper.
 3. Sprinkle crushed peppermints on top.
 4. Let the patties harden completely before layering them in a container. Store in the fridge.
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

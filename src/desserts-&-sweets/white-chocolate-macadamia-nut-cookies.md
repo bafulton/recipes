@@ -42,3 +42,11 @@ Simple/etc.
 5. cool in fridge for 30 minutes (optional--increases cookie height)
 6. rounded tbspfuls ungreased cookie sheet 
 7. bake 10-12 minutes, until edges are golden brown 
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

@@ -41,5 +41,10 @@ Simple/etc.
 
 ## Resources
 ==- Original recipe
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
 ![](/static/recipes/kisslings.jpg)
 ===

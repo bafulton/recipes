@@ -32,3 +32,11 @@ Simple/etc.
 - salt and pepper, to taste
 
 ## Instructions
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

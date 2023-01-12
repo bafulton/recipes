@@ -38,3 +38,11 @@ Huffmans' Apple Cranberry Casserole
 1. Mix filling ingredients and place in 2 quart casserole dish (9x13 dish)
 2. Mix topping and pour over filling.
 3. Bake at 350 for 1 hour.
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

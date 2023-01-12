@@ -49,3 +49,9 @@ Simple/etc.
 
 ## Resources
 https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

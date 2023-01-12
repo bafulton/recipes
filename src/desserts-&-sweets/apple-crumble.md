@@ -43,3 +43,11 @@ Simple/etc.
 2. make filling (ensure apples are evenly coated), pour into 9x13 pan
 3. make topping (add butter last and stir until crumbly), place on top of filling
 4. bake 45-60 minutes, until topping looks golden brown
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

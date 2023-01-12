@@ -44,3 +44,9 @@ Simple/etc.
 
 ## Resources
 https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

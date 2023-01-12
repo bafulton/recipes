@@ -37,3 +37,11 @@ Simple/etc.
 6. Bake for ~30 minutes (20+ minutes per inch of thickness), until done.
 7. Pour the remaining glaze into a small pan and simmer it for ~5 minutes, until thick.
 8. Pour thickened glaze over baked salmon and garnish with sesame seeds.
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

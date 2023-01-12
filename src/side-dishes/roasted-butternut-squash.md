@@ -37,3 +37,9 @@ Simple/etc.
 
 ## Resources
 https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-turmeric/
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

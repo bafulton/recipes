@@ -36,3 +36,9 @@ Simple/etc.
 ## Resources
 [!ref target="blank" text="Recipe link"](https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/)
 [!ref target="blank" text="Recipe archive"](https://archive.is/xONP1)
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

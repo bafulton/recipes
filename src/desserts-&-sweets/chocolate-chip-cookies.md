@@ -43,3 +43,11 @@ Simple/etc.
 7. broil for 2-3 minutes, until tops are golden 
 8. oven -> 375 
 9. bake 6-8 minutes 
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

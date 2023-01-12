@@ -52,3 +52,11 @@ Simple/etc.
 1. Throw everything into the slow cooker and stir it up.
 2. Cook on low for 6-8 hours. It's not a big deal if its more like 8-9, you just may want to add a tiny bit of water at the end.
 3. Serve with a squeeze of lime juice, chopped green onion, cilantro, cut up avocado, crushed tortilla chips, extra salsa and, sliced black olives.
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===

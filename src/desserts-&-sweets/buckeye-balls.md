@@ -39,6 +39,11 @@ Simple/etc.
 8. Chill for at least 30 minutes.
 
 ## Resources
-==- Original recipe
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+==- Recipe
 ![](/static/recipes/buckeye-balls.jpg)
 ===

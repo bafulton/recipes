@@ -63,3 +63,11 @@ Simple/etc.
 2. beat until smooth and creamy
 3. stir in chopped pecans
 4. frost the cooled cake
+
+## Resources
+==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 😁
+!!!
+<!--- ![](/static/banners/tmp/???.webp) --->
+===
