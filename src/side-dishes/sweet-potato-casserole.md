@@ -51,7 +51,7 @@ Simple/etc.
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
-<!--- ![](/static/banners/tmp/???.webp) --->
+![](/static/banners/tmp/sweet-potato-casserole.png)
 ===
 [!ref target="blank" text="Recipe"](https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945)
 [!ref target="blank" text="Archive"](https://archive.is/Yt91R)

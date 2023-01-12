@@ -46,7 +46,7 @@ Simple/etc.
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
-<!--- ![](/static/banners/tmp/???.webp) --->
+![](/static/banners/tmp/kale-salad.jpg)
 ===
 [!ref target="blank" text="Recipe"](https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/)
 [!ref target="blank" text="Archive"](https://archive.is/KXklW)
