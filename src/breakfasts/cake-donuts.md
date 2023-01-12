@@ -43,7 +43,7 @@ Simple/etc.
 ## Resources
 ==- Picture
 !!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 🤞
+This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
 ![](/static/banners/tmp/cake-donuts.webp)
 ===
