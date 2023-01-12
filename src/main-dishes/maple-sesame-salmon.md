@@ -42,5 +42,7 @@ Simple/etc.
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
-<!--- ![](/static/banners/tmp/???.webp) --->
+![](/static/banners/tmp/maple-sesame-salmon.jpg)
 ===
+[!ref target="blank" text="Recipe"](https://sallysbakingaddiction.com/easy-maple-sesame-salmon/)
+[!ref target="blank" text="Archive"](https://archive.is/cG294)

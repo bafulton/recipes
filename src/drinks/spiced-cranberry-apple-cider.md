@@ -37,7 +37,7 @@ Simple/etc.
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
-<!--- ![](/static/banners/tmp/???.webp) --->
+![](/static/banners/tmp/spiced-cranberry-apple-cider.jpg)
 ===
 [!ref target="blank" text="Recipe"](https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/)
 [!ref target="blank" text="Archive"](https://archive.is/xONP1)

@@ -57,5 +57,7 @@ Simple/etc.
 !!!warning Warning
 This image was found on the internet. The actual recipe should look something like it, though. 😁
 !!!
-<!--- ![](/static/banners/tmp/???.webp) --->
+![](/static/banners/tmp/crockpot-tortilla-soup.jpeg)
 ===
+[!ref target="blank" text="Recipe"](http://forealslife.com/blog/2012/02/recipe-slow-cooker-chicken-tortilla-soup)
+[!ref target="blank" text="Archive"](https://archive.is/dsKzv)
