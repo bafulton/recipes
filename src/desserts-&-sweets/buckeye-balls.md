@@ -9,7 +9,8 @@ route: /desserts-sweets/buckeye-balls
 ---
 
 # Buckeye Balls
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Also known as peanut butter balls. The perfect Christmas sweet.
 
 ||| Prep Time
 ??? min
@@ -18,8 +19,6 @@ route: /desserts-sweets/buckeye-balls
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 - 1 ½ cups creamy peanut butter

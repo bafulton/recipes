@@ -8,7 +8,8 @@ authors:
 ---
 
 # Spiced Cranberry Apple Cider
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+The perfect drink for a cold night!
 
 ||| Prep Time
 ??? min
@@ -17,8 +18,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 - 2 cups apple cider

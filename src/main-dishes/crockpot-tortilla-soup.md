@@ -8,7 +8,8 @@ authors:
 ---
 
 # Crockpot Tortilla Soup
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Extremely yummy and healthy vegetarian tortilla soup.
 
 ||| Prep Time
 ??? min
@@ -17,8 +18,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 #### Soup

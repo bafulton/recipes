@@ -9,7 +9,8 @@ route: /desserts-sweets/vinegar-cookies
 ---
 
 # Vinegar Cookies
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Oldie but a goodie, and relatively unique as cookies go. Fulton/Wright family favorite going back to the mid-1900s.
 
 ||| Prep Time
 ??? min
@@ -19,8 +20,8 @@ route: /desserts-sweets/vinegar-cookies
 Simple/etc.
 |||
 
-## Summary
 ## Ingredients
+
 ## Instructions
 
 ## Resources

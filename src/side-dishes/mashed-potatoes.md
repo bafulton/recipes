@@ -8,7 +8,8 @@ authors:
 ---
 
 # Mashed Potatoes
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Yummy. Buttery. Mashed.
 
 ||| Prep Time
 ??? min
@@ -17,8 +18,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 - 1 bag potatoes
@@ -39,7 +38,6 @@ Simple/etc.
 5. Add butter and mix until there are only a few lumps. Add milk until the potatoes are creamy. Add salt and pepper to taste.
 6. Chop chives and serve alongside the potatoes.
 
-## Resources
 ## Resources
 ==- Picture
 !!!warning Warning

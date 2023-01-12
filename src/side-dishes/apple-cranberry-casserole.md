@@ -8,7 +8,8 @@ authors:
 ---
 
 # Apple Cranberry Casserole
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Huffman Thanksgiving favorite. The cranberry balances the apples.
 
 ||| Prep Time
 ??? min
@@ -17,9 +18,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
-Huffmans' Apple Cranberry Casserole
 
 ## Ingredients
 #### Filling

@@ -8,7 +8,8 @@ authors:
 ---
 
 # Roasted Butternut Squash
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+The only way to eat butternut squash.
 
 ||| Prep Time
 ??? min
@@ -17,8 +18,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 - 1 medium butternut squash (~3 lbs)
@@ -35,7 +34,6 @@ Simple/etc.
 4. Spread the chunks out on a baking pan, and roast for 35 minutes, until the squash is tender.
 5. Serve warm.
 
-## Resources
 ## Resources
 ==- Picture
 !!!warning Warning

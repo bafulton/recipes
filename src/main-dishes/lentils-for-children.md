@@ -7,9 +7,9 @@ authors:
     link: /categories/ben-fulton
 ---
 
-
 # Lentils for Children
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Lentils and hot dogs. It says "for children", but it's really for all ages.
 
 ||| Prep Time
 ??? min
@@ -19,9 +19,10 @@ authors:
 Simple/etc.
 |||
 
-## Summary
 ## Ingredients
+
 ## Instructions
+
 
 ## Resources
 ==- Picture

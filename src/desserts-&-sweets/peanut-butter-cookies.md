@@ -9,7 +9,8 @@ route: /desserts-sweets/peanut-butter-cookies
 ---
 
 # Peanut Butter Cookies
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Peanut butter. What more is there to say?
 
 ||| Prep Time
 ??? min
@@ -18,8 +19,6 @@ route: /desserts-sweets/peanut-butter-cookies
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 - 1 c butter (2 sticks) softened

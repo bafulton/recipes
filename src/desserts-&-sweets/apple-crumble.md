@@ -9,7 +9,8 @@ route: /desserts-sweets/apple-crumble
 ---
 
 # Apple Crumble
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Sweet & nutty apple crumble.
 
 ||| Prep Time
 ??? min
@@ -18,8 +19,6 @@ route: /desserts-sweets/apple-crumble
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 #### Filling

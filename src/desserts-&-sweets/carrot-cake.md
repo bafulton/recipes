@@ -9,7 +9,8 @@ route: /desserts-sweets/carrot-cake
 ---
 
 # Carrot Cake
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Ben's favorite cake. He designed it by merging several recipes together for his birthday in 2019.
 
 ||| Prep Time
 ??? min
@@ -18,8 +19,6 @@ route: /desserts-sweets/carrot-cake
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 #### Cake

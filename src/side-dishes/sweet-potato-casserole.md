@@ -8,7 +8,8 @@ authors:
 ---
 
 # Sweet Potato Casserole
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+A classic Thanksgiving dish.
 
 ||| Prep Time
 ??? min
@@ -17,8 +18,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 #### Filling
@@ -47,7 +46,6 @@ Simple/etc.
 6. Combine the topping ingredients and mix until it clumps together. Put on top of the filling.
 7. Bake until mostly set in the middle and golden on top (~25-30 minutes). Serve hot/warm.
 
-## Resources
 ## Resources
 ==- Picture
 !!!warning Warning

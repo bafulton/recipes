@@ -9,7 +9,8 @@ route: /desserts-sweets/peppermint-patties
 ---
 
 # Peppermint Patties
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+They melt in your mouth. First served by Noelle at Christmas 2018.
 
 ||| Prep Time
 ??? min
@@ -18,9 +19,6 @@ route: /desserts-sweets/peppermint-patties
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
-Jeannine’s Peppermint Patties
 
 ## Ingredients
 - 1 8oz. pkg. cream cheese softened

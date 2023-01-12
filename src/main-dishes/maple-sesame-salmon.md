@@ -8,7 +8,8 @@ authors:
 ---
 
 # Maple Sesame Salmon
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+A fun, fresh take on baked salmon. The maple syrup and soy sauce play off each other well.
 
 ||| Prep Time
 ??? min
@@ -17,8 +18,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 - 2 pounds of salmon fillets

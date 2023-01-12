@@ -8,7 +8,6 @@ authors:
 ---
 
 # Cherry Danish
-
 ## Summary
 Traditional Huffman family breakfast on Christmas Day.
 

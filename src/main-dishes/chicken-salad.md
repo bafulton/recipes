@@ -8,7 +8,8 @@ authors:
 ---
 
 # Chicken Salad
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+The classiest chicken salad you've ever had.
 
 ||| Prep Time
 ??? min
@@ -17,8 +18,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 - 3 cans chicken
@@ -32,6 +31,8 @@ Simple/etc.
 - salt and pepper, to taste
 
 ## Instructions
+1. Combine all ingredients.
+2. Service on bread or croissants.
 
 ## Resources
 ==- Picture

@@ -8,17 +8,16 @@ authors:
 ---
 
 # Kale Salad
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+Decadent but healthy; you'll be left wanting more.
 
 ||| Prep Time
-??? min
+??? mins
 ||| Makes
 ??? portions/etc.
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
 
 ## Ingredients
 #### Salad
@@ -29,7 +28,7 @@ Simple/etc.
 - 2 oz soft goat cheese, chilled
 
 #### Dressing
-- 3 tbssp olive oil
+- 3 tbsp olive oil
 - 1 ½ tbsp apple cider vinegar (or red wine)
 - 1 tbsp smooth dijon mustard
 - 1 ½ tsp honey or maple syrup

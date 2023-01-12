@@ -9,7 +9,8 @@ route: /desserts-sweets/hello-dollies
 ---
 
 # Hello Dollies
-<!--- ![](/static/banners/???.webp) --->
+## Summary
+This Huffman favorite brings butterscotch to Christmas.
 
 ||| Prep Time
 ??? min
@@ -19,8 +20,8 @@ route: /desserts-sweets/hello-dollies
 Simple/etc.
 |||
 
-## Summary
 ## Ingredients
+
 ## Instructions
 
 ## Resources
