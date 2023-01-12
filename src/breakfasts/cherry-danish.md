@@ -9,6 +9,9 @@ authors:
 
 # Cherry Danish
 
+## Summary
+Traditional Huffman family breakfast on Christmas Day.
+
 ||| Prep Time
 ??? min
 ||| Makes
@@ -16,9 +19,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
-Traditional Huffman family breakfast on Christmas Day.
 
 ## Ingredients
 #### Danish
@@ -56,5 +56,8 @@ Traditional Huffman family breakfast on Christmas Day.
 
 ## Resources
 ==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 🤞
+!!!
 ![](/static/banners/tmp/cherry-danish.jpg)
 ===

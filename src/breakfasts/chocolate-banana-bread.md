@@ -9,6 +9,9 @@ authors:
 
 # Chocolate Banana Bread
 
+## Summary
+Chocolate chips and cocoa powder give this soft chocolate banana bread a deep chocolate flavor.
+
 ||| Prep Time
 ??? min
 ||| Makes
@@ -16,9 +19,6 @@ authors:
 ||| Complexity
 Simple/etc.
 |||
-
-## Summary
-Chocolate chips and cocoa powder give this soft chocolate banana bread a deep chocolate flavor.
 
 ## Ingredients
 - 1 ½ cups all-purpose flour
@@ -47,5 +47,8 @@ Chocolate chips and cocoa powder give this soft chocolate banana bread a deep ch
 
 ## Resources
 ==- Picture
+!!!warning Warning
+This image was found on the internet. The actual recipe should look something like it, though. 🤞
+!!!
 ![](/static/banners/tmp/chocolate-banana-bread.webp)
 ===
