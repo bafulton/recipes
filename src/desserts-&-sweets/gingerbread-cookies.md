@@ -1,6 +1,6 @@
 ---
 label: Gingerbread cookies
-tags: [christmas]
+tags: [christmas, cookies]
 categories: [Ben Fulton]
 authors:
   - name: Ben Fulton

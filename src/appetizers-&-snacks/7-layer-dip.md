@@ -1,6 +1,6 @@
 ---
 label: 7-layer dip
-tags: [christmas]
+tags: [christmas, huffmans]
 categories: [Kimberly Huffman]
 authors:
   - name: Kimberly Huffman

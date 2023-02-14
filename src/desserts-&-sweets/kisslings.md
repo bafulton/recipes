@@ -1,6 +1,6 @@
 ---
 label: Kisslings
-tags: [christmas]
+tags: [christmas, fultons]
 categories: [Betsy Fulton]
 authors:
   - name: Betsy Fulton

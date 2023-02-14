@@ -1,6 +1,6 @@
 ---
 label: Hello dollies
-tags: [christmas]
+tags: [christmas, huffmans]
 categories: [Kimberly Huffman]
 authors:
   - name: Kimberly Huffman

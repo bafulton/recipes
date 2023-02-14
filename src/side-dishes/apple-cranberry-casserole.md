@@ -1,6 +1,6 @@
 ---
 label: Apple cranberry casserole
-tags: [thanksgiving]
+tags: [thanksgiving, huffmans]
 categories: [Kimberly Huffman]
 authors:
   - name: Kimberly Huffman

@@ -1,6 +1,6 @@
 ---
 label: Carrot cake
-tags: []
+tags: [cake]
 categories: [Ben Fulton]
 authors:
   - name: Ben Fulton

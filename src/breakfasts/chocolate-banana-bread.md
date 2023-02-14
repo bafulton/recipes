@@ -1,6 +1,6 @@
 ---
 label: Chocolate banana bread
-tags: []
+tags: [bread]
 categories: [Ben Fulton]
 authors:
   - name: Ben Fulton

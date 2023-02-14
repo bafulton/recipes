@@ -1,6 +1,6 @@
 ---
 label: White chocolate macadamia nut cookies
-tags: []
+tags: [cookies]
 categories: [Ben Fulton]
 authors:
   - name: Ben Fulton

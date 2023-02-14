@@ -1,6 +1,6 @@
 ---
 label: Peanut butter cookies
-tags: []
+tags: [cookies]
 categories: [Ben Fulton]
 authors:
   - name: Ben Fulton
