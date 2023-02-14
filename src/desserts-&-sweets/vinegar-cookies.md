@@ -1,6 +1,6 @@
 ---
 label: Vinegar cookies
-tags: [christmas, fultons, cookies]
+tags: [christmas, fulton-classics, cookies]
 categories: [Rachel Coleman]
 authors:
   - name: Rachel Coleman

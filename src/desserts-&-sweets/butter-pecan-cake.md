@@ -1,6 +1,6 @@
 ---
 label: Butter pecan cake
-tags: [fultons, cake]
+tags: [fulton-classics, cake]
 categories: [Betsy Fulton]
 authors:
   - name: Betsy Fulton

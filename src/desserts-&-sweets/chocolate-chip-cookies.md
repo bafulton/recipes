@@ -1,6 +1,6 @@
 ---
 label: Chocolate chip cookies
-tags: [fultons, cookies]
+tags: [fulton-classics, cookies]
 categories: [Betsy Fulton]
 authors:
   - name: Betsy Fulton

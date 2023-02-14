@@ -1,6 +1,6 @@
 ---
 label: Cherry danish
-tags: [christmas, huffmans]
+tags: [christmas, huffman-classics]
 categories: [Kimberly Huffman]
 authors:
   - name: Kimberly Huffman
