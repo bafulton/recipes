@@ -8,7 +8,7 @@ authors:
 ---
 
 # Mashed Potatoes
-![](/static/banners/mashed-potatoes.webp)
+![](/static/banners/mashed-potatoes.jpeg)
 
 ## Summary
 Yummy. Buttery. Mashed.

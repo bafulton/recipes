@@ -8,7 +8,7 @@ authors:
 ---
 
 # Cake Donuts
-![](/static/banners/cake-donuts.webp)
+![](/static/banners/cake-donuts.jpeg)
 
 ## Summary
 A cake donut recipe that's simple to make and lightly spiced with cinnamon and nutmeg.
