@@ -4,6 +4,7 @@ Welcome to the repository of favorite Fulton & Huffman family recipes!
 
 ## Holiday Favorites
 +++ Thanksgiving
+#### Classics
 - Turkey
 - Ham
 - Stuffing
@@ -15,12 +16,17 @@ Welcome to the repository of favorite Fulton & Huffman family recipes!
 - Salad
 - [Apple cranberry casserole](./side-dishes/apple-cranberry-casserole.md)
 - [Sweet potato casserole](./side-dishes/sweet-potato-casserole.md)
-- pumpkin pie
-- pecan pie
-- apple pie
+- Pumpkin pie
+- Pecan pie
+- Apple pie
+
+#### New Favorites
+- [Roasted butternut squash](./side-dishes/roasted-butternut-squash.md)
+- [Kale salad](./salads/kale-salad.md)
+- [Spiced cranberry apple cider](./drinks/spiced-cranberry-apple-cider.md)
 
 +++ Christmas
-### Fulton Favorites:
+#### Fulton Favorites
 - [Kringla](./breakfasts/kringla.md)
 - [Kisslings](./desserts-&-sweets/kisslings.md)
 - [Buckeye balls](./desserts-&-sweets/buckeye-balls.md)
@@ -31,7 +37,8 @@ Welcome to the repository of favorite Fulton & Huffman family recipes!
 - Snickerdoodles
 - [Vinegar cookies](./desserts-&-sweets/vinegar-cookies.md)
 
-### Huffman Favorites:
+#### Huffman Favorites
+- [7-layer dip](./appetizers-&-snacks/7-layer-dip.md)
 - [Philadelphia cherry danish](./breakfasts/cherry-danish.md)
 - [Hello dollies](./desserts-&-sweets/hello-dollies.md)
 - Lemon squares
@@ -40,7 +47,7 @@ Welcome to the repository of favorite Fulton & Huffman family recipes!
 - Peanut butter blossoms
 - Peanut butter balls
 
-### New Favorites:
+#### New Favorites
 - [Peppermint patties](./desserts-&-sweets/peppermint-patties.md)
 - [Gingerbread cookies](./desserts-&-sweets/gingerbread-cookies.md)
 - Ginger molasses cookies
