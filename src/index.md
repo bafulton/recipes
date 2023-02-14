@@ -4,47 +4,46 @@ Welcome to the repository of favorite Fulton & Huffman family recipes!
 
 ## Holiday Favorites
 +++ Thanksgiving
-- turkey
-- ham
-- stuffing
-- [](./side-dishes/mashed-potatoes.md)
-- gravy
-- green bean casserole
-- cranberry jelly
-- rolls & butter
-- salad
-- apple cranberry casserole (see recipe)
-- sweet potato casserole (see recipe)
+- Turkey
+- Ham
+- Stuffing
+- [Mashed potatoes](./side-dishes/mashed-potatoes.md)
+- Gravy
+- Green bean casserole
+- Cranberry jelly
+- Rolls & butter
+- Salad
+- [Apple cranberry casserole](./side-dishes/apple-cranberry-casserole.md)
+- [Sweet potato casserole](./side-dishes/sweet-potato-casserole.md)
 - pumpkin pie
 - pecan pie
 - apple pie
 
 +++ Christmas
-Fulton Favorites:
-- kringla
-- kisslings
-- buckeye balls
-- pecan tassies
-- chocolate covered pretzels
-- spritz cookies
-- sugar cookies
-- snickerdoodles
-- vinegar cookies
+### Fulton Favorites:
+- [Kringla](./breakfasts/kringla.md)
+- [Kisslings](./desserts-&-sweets/kisslings.md)
+- [Buckeye balls](./desserts-&-sweets/buckeye-balls.md)
+- Pecan tassies
+- Chocolate covered pretzels
+- Spritz cookies
+- Sugar cookies
+- Snickerdoodles
+- [Vinegar cookies](./desserts-&-sweets/vinegar-cookies.md)
 
+### Huffman Favorites:
+- [Philadelphia cherry danish](./breakfasts/cherry-danish.md)
+- [Hello dollies](./desserts-&-sweets/hello-dollies.md)
+- Lemon squares
+- Kisses (meringue cookies)
+- Peanut butter sandwiches
+- Peanut butter blossoms
+- Peanut butter balls
 
-Huffman Favorites:
-- philadelphia cherry danish
-- hello dollies
-- lemon squares
-- kisses (meringue cookies)
-- peanut butter sandwiches
-- peanut butter blossoms
-- peanut butter balls
-
-New Favorites:
-- peppermint patties
-- gingerbread cookies
-- ginger molasses cookies
+### New Favorites:
+- [Peppermint patties](./desserts-&-sweets/peppermint-patties.md)
+- [Gingerbread cookies](./desserts-&-sweets/gingerbread-cookies.md)
+- Ginger molasses cookies
 +++
 
 !!! warning
