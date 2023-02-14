@@ -9,15 +9,11 @@ route: /desserts-sweets/butter-pecan-cake
 ---
 
 # Butter Pecan Cake
-![](/static/banners/butter-pecan-cake.jpg)
-
-## Summary
-Also called baby shower cake by the Fulton family. Sweet, buttery, and nutty.
+![Also called baby shower cake by the Fulton family. Sweet, buttery, and nutty.](/static/banners/butter-pecan-cake.jpg)
 
 ## Ingredients
 
 ## Instructions
-
 
 ## Resources
 ==- Recipe (front)

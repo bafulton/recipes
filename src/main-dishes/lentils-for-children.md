@@ -8,10 +8,7 @@ authors:
 ---
 
 # Lentils for Children
-![](/static/banners/lentils-for-children.jpg)
-
-## Summary
-Lentils and hot dogs. It says "for children", but it's really for all ages.
+![Lentils and hot dogs. It says "for children", but it's really for all ages.](/static/banners/lentils-for-children.jpg)
 
 ## Ingredients
 

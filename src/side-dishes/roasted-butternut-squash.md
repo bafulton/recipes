@@ -8,10 +8,7 @@ authors:
 ---
 
 # Roasted Butternut Squash
-![](/static/banners/roasted-butternut-squash.jpg)
-
-## Summary
-The only way to eat butternut squash.
+![The only way to eat butternut squash.](/static/banners/roasted-butternut-squash.jpg)
 
 ## Ingredients
 - 1 medium butternut squash (~3 lbs)

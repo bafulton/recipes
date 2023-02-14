@@ -9,10 +9,7 @@ route: /desserts-sweets/peppermint-patties
 ---
 
 # Peppermint Patties
-![](/static/banners/peppermint-patties.jpg)
-
-## Summary
-They melt in your mouth. First served by Noelle at Christmas 2018.
+![They melt in your mouth. First served by Noelle at Christmas 2018.](/static/banners/peppermint-patties.jpg)
 
 ## Ingredients
 - 1 8oz. pkg. cream cheese softened

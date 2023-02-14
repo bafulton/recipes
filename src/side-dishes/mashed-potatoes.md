@@ -8,10 +8,7 @@ authors:
 ---
 
 # Mashed Potatoes
-![](/static/banners/mashed-potatoes.jpeg)
-
-## Summary
-Yummy. Buttery. Mashed.
+![Yummy. Buttery. Mashed.](/static/banners/mashed-potatoes.jpeg)
 
 ## Ingredients
 - 1 bag potatoes

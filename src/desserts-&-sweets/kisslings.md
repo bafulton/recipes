@@ -9,10 +9,7 @@ route: /desserts-sweets/kisslings
 ---
 
 # Kisslings
-![](/static/banners/kisslings.jpg)
-
-## Summary
-All-time favorite Fulton Christmas cookie. Also called snowballs or Mexican wedding cookies.
+![All-time favorite Fulton Christmas cookie. Also called snowballs or Mexican wedding cookies.](/static/banners/kisslings.jpg)
 
 ## Ingredients
 - 4 sticks butter straight from the fridge

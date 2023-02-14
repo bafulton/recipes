@@ -9,10 +9,7 @@ route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 ---
 
 # White Chocolate Macadamia Nut Cookies
-![](/static/banners/white-chocolate-macadamia-nut-cookies.jpg)
-
-## Summary
-Smooth and creamy cookies. White chocolate brings the decadence and almond brings the class.
+![Smooth and creamy cookies. White chocolate brings the decadence and almond brings the class.](/static/banners/white-chocolate-macadamia-nut-cookies.jpg)
 
 ## Ingredients
 - 1 c butter (2 sticks) softened 

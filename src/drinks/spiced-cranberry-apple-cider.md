@@ -8,10 +8,7 @@ authors:
 ---
 
 # Spiced Cranberry Apple Cider
-![](/static/banners/spiced-cranberry-apple-cider.jpg)
-
-## Summary
-The perfect drink for a cold night!
+![The perfect drink for a cold night!](/static/banners/spiced-cranberry-apple-cider.jpg)
 
 ## Ingredients
 - 2 cups apple cider

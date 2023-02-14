@@ -9,10 +9,7 @@ route: /desserts-sweets/peanut-butter-cookies
 ---
 
 # Peanut Butter Cookies
-![](/static/banners/peanut-butter-cookies.jpg)
-
-## Summary
-Peanut butter. What more is there to say?
+![Peanut butter. What more is there to say?](/static/banners/peanut-butter-cookies.jpg)
 
 ## Ingredients
 - 1 c butter (2 sticks) softened

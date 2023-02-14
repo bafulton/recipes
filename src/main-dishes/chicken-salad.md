@@ -8,10 +8,7 @@ authors:
 ---
 
 # Chicken Salad
-![](/static/banners/chicken-salad.jpg)
-
-## Summary
-The classiest chicken salad you've ever had.
+![The classiest chicken salad you've ever had.](/static/banners/chicken-salad.jpg)
 
 ## Ingredients
 - 3 cans chicken

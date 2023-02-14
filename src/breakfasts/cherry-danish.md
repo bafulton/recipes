@@ -8,10 +8,7 @@ authors:
 ---
 
 # Cherry Danish
-![](/static/banners/cherry-danish.jpg)
-
-## Summary
-Traditional Huffman family breakfast on Christmas Day.
+![Traditional Huffman family breakfast on Christmas Day.](/static/banners/cherry-danish.jpg)
 
 ## Ingredients
 #### Danish

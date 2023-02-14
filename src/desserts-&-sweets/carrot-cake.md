@@ -9,10 +9,7 @@ route: /desserts-sweets/carrot-cake
 ---
 
 # Carrot Cake
-![](/static/banners/carrot-cake.jpg)
-
-## Summary
-Ben's favorite cake. He designed it by merging several recipes together for his birthday in 2019.
+![Ben's favorite cake. He designed it by merging several recipes together for his birthday in 2019.](/static/banners/carrot-cake.jpg)
 
 ## Ingredients
 #### Cake

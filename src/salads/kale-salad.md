@@ -8,10 +8,7 @@ authors:
 ---
 
 # Kale Salad
-![](/static/banners/kale-salad.jpg)
-
-## Summary
-Decadent but healthy; you'll be left wanting more.
+![Decadent but healthy; you'll be left wanting more.](/static/banners/kale-salad.jpg)
 
 ## Ingredients
 #### Salad

@@ -9,10 +9,7 @@ route: /desserts-sweets/chocolate-chip-cookies
 ---
 
 # Chocolate Chips
-![](/static/banners/chocolate-chip-cookies.jpg)
-
-## Summary
-Fulton family's traditional cookie recipe, as listed on the side of the Toll House Chocolate Chips tin.
+![Fulton family's traditional cookie recipe, as listed on the side of the Toll House Chocolate Chips tin.](/static/banners/chocolate-chip-cookies.jpg)
 
 ## Ingredients
 - 1 c butter (2 sticks) softened

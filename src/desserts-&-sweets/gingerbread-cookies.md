@@ -9,10 +9,7 @@ route: /desserts-sweets/gingerbread-cookies
 ---
 
 # Gingerbread Cookies
-![](/static/banners/gingerbread-cookies.jpg)
-
-## Summary
-Soft and gingery cookies that don't dry out.
+![Soft and gingery cookies that don't dry out.](/static/banners/gingerbread-cookies.jpg)
 
 ## Ingredients
 - 1 ¼ sticks butter, room temperature

@@ -8,10 +8,7 @@ authors:
 ---
 
 # Kringla
-![](/static/banners/kringla.jpeg)
-
-## Summary
-Traditional Fulton family birthday breakfast. Soft, flakey pastry with almond and cherry flavor.
+![Traditional Fulton family birthday breakfast. Soft, flakey pastry with almond and cherry flavor.](/static/banners/kringla.jpeg)
 
 ## Ingredients
 

@@ -9,10 +9,7 @@ route: /desserts-sweets/apple-crumble
 ---
 
 # Apple Crumble
-![](/static/banners/apple-crumble.jpeg)
-
-## Summary
-Sweet & nutty apple crumble.
+![Sweet & nutty apple crumble.](/static/banners/apple-crumble.jpeg)
 
 ## Ingredients
 #### Filling

@@ -9,10 +9,7 @@ route: /desserts-sweets/hello-dollies
 ---
 
 # Hello Dollies
-![](/static/banners/hello-dollies.jpeg)
-
-## Summary
-This Huffman favorite brings butterscotch to Christmas.
+![This Huffman favorite brings butterscotch to Christmas.](/static/banners/hello-dollies.jpeg)
 
 ## Ingredients
 
