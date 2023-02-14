@@ -8,6 +8,8 @@ authors:
 ---
 
 # Chicken Salad
+![](/static/banners/tmp/chicken-salad.jpg)
+
 ## Summary
 The classiest chicken salad you've ever had.
 
@@ -26,11 +28,3 @@ The classiest chicken salad you've ever had.
 ## Instructions
 1. Combine all ingredients.
 2. Service on bread or croissants.
-
-## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/chicken-salad.jpg)
-===

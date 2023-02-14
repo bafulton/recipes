@@ -8,6 +8,8 @@ authors:
 ---
 
 # Spiced Cranberry Apple Cider
+![](/static/banners/tmp/spiced-cranberry-apple-cider.jpg)
+
 ## Summary
 The perfect drink for a cold night!
 
@@ -25,11 +27,5 @@ The perfect drink for a cold night!
 3. Serve warm/hot.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/spiced-cranberry-apple-cider.jpg)
-===
 [!ref target="blank" text="Recipe"](https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/)
 [!ref target="blank" text="Archive"](https://archive.is/xONP1)

@@ -8,6 +8,8 @@ authors:
 ---
 
 # Sweet Potato Casserole
+![](/static/banners/tmp/sweet-potato-casserole.png)
+
 ## Summary
 A classic Thanksgiving dish.
 
@@ -39,11 +41,5 @@ A classic Thanksgiving dish.
 7. Bake until mostly set in the middle and golden on top (~25-30 minutes). Serve hot/warm.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/sweet-potato-casserole.png)
-===
 [!ref target="blank" text="Recipe"](https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945)
 [!ref target="blank" text="Archive"](https://archive.is/Yt91R)

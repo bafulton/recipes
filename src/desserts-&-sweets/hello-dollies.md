@@ -9,6 +9,8 @@ route: /desserts-sweets/hello-dollies
 ---
 
 # Hello Dollies
+![](/static/banners/tmp/hello-dollies.webp)
+
 ## Summary
 This Huffman favorite brings butterscotch to Christmas.
 
@@ -17,11 +19,5 @@ This Huffman favorite brings butterscotch to Christmas.
 ## Instructions
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/hello-dollies.webp)
-===
 [!ref target="blank" text="Recipe"](https://insanelygoodrecipes.com/hello-dolly-bars/)
 [!ref target="blank" text="Archive"](https://archive.is/O6P9P)

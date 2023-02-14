@@ -9,6 +9,8 @@ route: /desserts-sweets/carrot-cake
 ---
 
 # Carrot Cake
+![](/static/banners/tmp/carrot-cake.jpg)
+
 ## Summary
 Ben's favorite cake. He designed it by merging several recipes together for his birthday in 2019.
 
@@ -54,11 +56,3 @@ Ben's favorite cake. He designed it by merging several recipes together for his 
 2. beat until smooth and creamy
 3. stir in chopped pecans
 4. frost the cooled cake
-
-## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/carrot-cake.jpg)
-===

@@ -9,6 +9,8 @@ route: /desserts-sweets/peppermint-patties
 ---
 
 # Peppermint Patties
+![](/static/banners/tmp/peppermint-patties.jpg)
+
 ## Summary
 They melt in your mouth. First served by Noelle at Christmas 2018.
 
@@ -33,11 +35,3 @@ They melt in your mouth. First served by Noelle at Christmas 2018.
 2. Use a fork to dip the patties in melted chocolate and place on waxed paper.
 3. Sprinkle crushed peppermints on top.
 4. Let the patties harden completely before layering them in a container. Store in the fridge.
-
-## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/peppermint-patties.jpg)
-===

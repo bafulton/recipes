@@ -9,6 +9,8 @@ route: /appetizers-snacks/7-layer-dip
 ---
 
 # 7-layer Dip
+![](/static/banners/tmp/7-layer-dip.webp)
+
 ## Summary
 This is a very popular Christmas snacking dish in the Huffman family. It's a great way to balance out all those sugary Christmas cookies!
 
@@ -31,11 +33,6 @@ This is a very popular Christmas snacking dish in the Huffman family. It's a gre
 4. Serve with tortilla chips.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/7-layer-dip.webp)
 ==- Recipe
 ![](/static/recipes/7-layer-dip.jpg)
 ===

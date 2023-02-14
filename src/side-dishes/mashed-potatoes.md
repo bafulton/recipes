@@ -8,6 +8,8 @@ authors:
 ---
 
 # Mashed Potatoes
+![](/static/banners/tmp/mashed-potatoes.webp)
+
 ## Summary
 Yummy. Buttery. Mashed.
 
@@ -31,11 +33,5 @@ Yummy. Buttery. Mashed.
 6. Chop chives and serve alongside the potatoes.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/mashed-potatoes.webp)
-===
 [!ref target="blank" text="Recipe"](https://www.bonappetit.com/recipe/mashed-baked-potatoes-with-chives)
 [!ref target="blank" text="Archive"](https://archive.is/kS6Bq)

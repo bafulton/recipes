@@ -8,6 +8,8 @@ authors:
 ---
 
 # Crockpot Tortilla Soup
+![](/static/banners/tmp/crockpot-tortilla-soup.jpeg)
+
 ## Summary
 Extremely yummy and healthy vegetarian tortilla soup.
 
@@ -45,11 +47,5 @@ Extremely yummy and healthy vegetarian tortilla soup.
 3. Serve with a squeeze of lime juice, chopped green onion, cilantro, cut up avocado, crushed tortilla chips, extra salsa and, sliced black olives.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/crockpot-tortilla-soup.jpeg)
-===
 [!ref target="blank" text="Recipe"](http://forealslife.com/blog/2012/02/recipe-slow-cooker-chicken-tortilla-soup)
 [!ref target="blank" text="Archive"](https://archive.is/dsKzv)

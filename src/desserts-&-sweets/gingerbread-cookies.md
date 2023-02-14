@@ -9,6 +9,8 @@ route: /desserts-sweets/gingerbread-cookies
 ---
 
 # Gingerbread Cookies
+![](/static/banners/tmp/gingerbread-cookies.jpg)
+
 ## Summary
 Soft and gingery cookies that don't dry out.
 
@@ -40,11 +42,5 @@ Soft and gingery cookies that don't dry out.
 11. Let cookies cool, and decorate.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/gingerbread-cookies.jpg)
-===
 [!ref target="blank" text="Recipe"](https://sallysbakingaddiction.com/best-gingerbread-cookies/)
 [!ref target="blank" text="Archive"](https://archive.is/lrNra)

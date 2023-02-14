@@ -9,6 +9,8 @@ route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 ---
 
 # White Chocolate Macadamia Nut Cookies
+![](/static/banners/tmp/white-chocolate-macadamia-nut-cookies.jpg)
+
 ## Summary
 Smooth and creamy cookies. White chocolate brings the decadence and almond brings the class.
 
@@ -34,11 +36,3 @@ Smooth and creamy cookies. White chocolate brings the decadence and almond bring
 6. rounded tbspfuls ungreased cookie sheet 
 7. bake 10-12 minutes, until edges are golden brown
 8. makes 5 dozen cookies
-
-## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/white-chocolate-macadamia-nut-cookies.jpg)
-===

@@ -8,6 +8,8 @@ authors:
 ---
 
 # Maple Sesame Salmon
+![](/static/banners/tmp/maple-sesame-salmon.jpg)
+
 ## Summary
 A fun, fresh take on baked salmon. The maple syrup and soy sauce play off each other well.
 
@@ -30,11 +32,5 @@ A fun, fresh take on baked salmon. The maple syrup and soy sauce play off each o
 8. Pour thickened glaze over baked salmon and garnish with sesame seeds.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/maple-sesame-salmon.jpg)
-===
 [!ref target="blank" text="Recipe"](https://sallysbakingaddiction.com/easy-maple-sesame-salmon/)
 [!ref target="blank" text="Archive"](https://archive.is/cG294)

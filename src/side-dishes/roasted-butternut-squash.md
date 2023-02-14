@@ -8,6 +8,8 @@ authors:
 ---
 
 # Roasted Butternut Squash
+![](/static/banners/tmp/roasted-butternut-squash.jpg)
+
 ## Summary
 The only way to eat butternut squash.
 
@@ -27,11 +29,5 @@ The only way to eat butternut squash.
 5. Serve warm.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/roasted-butternut-squash.jpg)
-===
 [!ref target="blank" text="Recipe"](https://www.healthyseasonalrecipes.com/roasted-butternut-squash-smoked-paprika-turmeric/)
 [!ref target="blank" text="Archive"](https://archive.is/hThP9)

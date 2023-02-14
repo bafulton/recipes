@@ -8,6 +8,8 @@ authors:
 ---
 
 # Cherry Danish
+![](/static/banners/tmp/cherry-danish.jpg)
+
 ## Summary
 Traditional Huffman family breakfast on Christmas Day.
 
@@ -44,11 +46,3 @@ Traditional Huffman family breakfast on Christmas Day.
 #### Glaze
 1. combine ¾ cup powdered sugar, milk, and vanilla in bowl and mix until smooth
 2. drizzle over the danish
-
-## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/cherry-danish.jpg)
-===

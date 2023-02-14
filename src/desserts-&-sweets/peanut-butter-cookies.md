@@ -9,6 +9,8 @@ route: /desserts-sweets/peanut-butter-cookies
 ---
 
 # Peanut Butter Cookies
+![](/static/banners/tmp/peanut-butter-cookies.jpg)
+
 ## Summary
 Peanut butter. What more is there to say?
 
@@ -32,11 +34,3 @@ Peanut butter. What more is there to say?
 5. cool in fridge for 30 minutes-1 hour (optional--increases cookie height)
 6. roll into 1 inch balls, criss-cross with fork 
 7. bake 10 minutes, until edges begin to brown
-
-## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/peanut-butter-cookies.jpg)
-===

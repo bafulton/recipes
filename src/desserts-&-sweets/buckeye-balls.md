@@ -9,6 +9,8 @@ route: /desserts-sweets/buckeye-balls
 ---
 
 # Buckeye Balls
+![](/static/banners/tmp/buckeye-balls.jpg)
+
 ## Summary
 Also known as peanut butter balls. The perfect Christmas sweet.
 
@@ -30,11 +32,6 @@ Also known as peanut butter balls. The perfect Christmas sweet.
 8. Chill for at least 30 minutes.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/buckeye-balls.jpg)
 ==- Recipe
 ![](/static/recipes/buckeye-balls.jpg)
 ===

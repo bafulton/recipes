@@ -9,6 +9,8 @@ route: /desserts-sweets/vinegar-cookies
 ---
 
 # Vinegar Cookies
+![](/static/banners/tmp/vinegar-cookies.jpg)
+
 ## Summary
 Oldie but a goodie, and relatively unique as cookies go. Fulton/Wright family favorite going back to the mid-1900s.
 
@@ -17,11 +19,6 @@ Oldie but a goodie, and relatively unique as cookies go. Fulton/Wright family fa
 ## Instructions
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/vinegar-cookies.jpg)
 ==- Recipe
 ![](/static/recipes/vinegar-cookies.jpg)
 ===

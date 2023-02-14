@@ -34,11 +34,5 @@ A cake donut recipe that's simple to make and lightly spiced with cinnamon and n
 6. Coat with cinnamon sugar or powdered sugar glaze, or serve with raspberry jam.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/cake-donuts.webp)
-===
 [!ref target="blank" text="Recipe"](https://www.allrecipes.com/recipe/43051/plain-cake-doughnuts/)
 [!ref target="blank" text="Archive"](https://archive.is/g8dEV)

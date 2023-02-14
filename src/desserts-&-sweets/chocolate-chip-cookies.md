@@ -9,6 +9,8 @@ route: /desserts-sweets/chocolate-chip-cookies
 ---
 
 # Chocolate Chips
+![](/static/banners/tmp/chocolate-chip-cookies.jpg)
+
 ## Summary
 Fulton family's traditional cookie recipe, as listed on the side of the Toll House Chocolate Chips tin.
 
@@ -35,11 +37,3 @@ Fulton family's traditional cookie recipe, as listed on the side of the Toll Hou
 8. oven -> 375 
 9. bake 6-8 minutes
 10. makes 5 dozen cookies
-
-## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/chocolate-chip-cookies.jpg)
-===

@@ -8,6 +8,8 @@ authors:
 ---
 
 # Kale Salad
+![](/static/banners/tmp/kale-salad.jpg)
+
 ## Summary
 Decadent but healthy; you'll be left wanting more.
 
@@ -34,11 +36,5 @@ Decadent but healthy; you'll be left wanting more.
 4. In a small bowl, whisk the dressing ingredients together and pour the dressing over the salad. Toss until the salad is evenly coated with dressing. Serve immediately, or for even better flavor, let the salad marinate in the dressing for 10 to 20 minutes beforehand.
 
 ## Resources
-==- Picture
-!!!warning Warning
-This image was found on the internet. The actual recipe should look something like it, though. 😁
-!!!
-![](/static/banners/tmp/kale-salad.jpg)
-===
 [!ref target="blank" text="Recipe"](https://cookieandkate.com/debs-kale-salad-with-apple-cranberries-and-pecans/)
 [!ref target="blank" text="Archive"](https://archive.is/KXklW)
