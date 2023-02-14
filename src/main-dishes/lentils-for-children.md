@@ -11,14 +11,6 @@ authors:
 ## Summary
 Lentils and hot dogs. It says "for children", but it's really for all ages.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 
 ## Instructions

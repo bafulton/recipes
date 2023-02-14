@@ -11,14 +11,6 @@ authors:
 ## Summary
 A classic Thanksgiving dish.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 #### Filling
 - 3-4 large sweet potatoes

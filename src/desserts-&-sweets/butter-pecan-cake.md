@@ -12,14 +12,6 @@ route: /desserts-sweets/butter-pecan-cake
 ## Summary
 Also called baby shower cake by the Fulton family. Sweet, buttery, and nutty.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 
 ## Instructions

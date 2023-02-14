@@ -11,14 +11,6 @@ authors:
 ## Summary
 Traditional Fulton family birthday breakfast. Soft, flakey pastry with almond and cherry flavor.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 
 ## Instructions

@@ -12,14 +12,6 @@ route: /desserts-sweets/kisslings
 ## Summary
 All-time favorite Fulton Christmas cookie. Also called snowballs or Mexican wedding cookies.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 4 sticks butter straight from the fridge
 - 4 cups flour

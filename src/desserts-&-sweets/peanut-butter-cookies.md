@@ -12,14 +12,6 @@ route: /desserts-sweets/peanut-butter-cookies
 ## Summary
 Peanut butter. What more is there to say?
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 1 c butter (2 sticks) softened
 - 1 c peanut butter (crunchy or creamy)

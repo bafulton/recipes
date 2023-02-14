@@ -11,14 +11,6 @@ authors:
 ## Summary
 Decadent but healthy; you'll be left wanting more.
 
-||| Prep Time
-??? mins
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 #### Salad
 - 1 bag kale (~8 oz)

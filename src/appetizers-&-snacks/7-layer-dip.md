@@ -12,14 +12,6 @@ route: /appetizers-snacks/7-layer-dip
 ## Summary
 This is a very popular Christmas snacking dish in the Huffman family. It's a great way to balance out all those sugary Christmas cookies!
 
-||| Prep Time
-30-45 minutes
-||| Makes
-One 9x13 pan
-||| Complexitys
-Simple
-|||
-
 ## Ingredients
 - 1 can refried beans (16 oz)
 - ½ package taco seasoning

@@ -12,14 +12,6 @@ route: /desserts-sweets/chocolate-chip-cookies
 ## Summary
 Fulton family's traditional cookie recipe, as listed on the side of the Toll House Chocolate Chips tin.
 
-||| Prep Time
-??? min
-||| Makes
-5 dozen cookies
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 1 c butter (2 sticks) softened
 - ¾ c sugar 
@@ -41,7 +33,8 @@ Simple/etc.
 6. rounded tbspfuls ungreased cookie sheet 
 7. broil for 2-3 minutes, until tops are golden 
 8. oven -> 375 
-9. bake 6-8 minutes 
+9. bake 6-8 minutes
+10. makes 5 dozen cookies
 
 ## Resources
 ==- Picture

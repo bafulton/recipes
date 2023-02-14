@@ -11,14 +11,6 @@ authors:
 ## Summary
 The only way to eat butternut squash.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 1 medium butternut squash (~3 lbs)
 - 2 tbsp olive oil

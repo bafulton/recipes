@@ -12,14 +12,6 @@ route: /desserts-sweets/vinegar-cookies
 ## Summary
 Oldie but a goodie, and relatively unique as cookies go. Fulton/Wright family favorite going back to the mid-1900s.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 
 ## Instructions

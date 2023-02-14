@@ -12,14 +12,6 @@ route: /desserts-sweets/carrot-cake
 ## Summary
 Ben's favorite cake. He designed it by merging several recipes together for his birthday in 2019.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 #### Cake
 - 4 eggs

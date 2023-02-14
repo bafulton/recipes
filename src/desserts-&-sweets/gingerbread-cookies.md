@@ -12,14 +12,6 @@ route: /desserts-sweets/gingerbread-cookies
 ## Summary
 Soft and gingery cookies that don't dry out.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 1 ¼ sticks butter, room temperature
 - ¾ cup dark brown sugar

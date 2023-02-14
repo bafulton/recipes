@@ -12,14 +12,6 @@ route: /desserts-sweets/peppermint-patties
 ## Summary
 They melt in your mouth. First served by Noelle at Christmas 2018.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 1 8oz. pkg. cream cheese softened
 - 1 teaspoon peppermint extract

@@ -13,14 +13,6 @@ authors:
 ## Summary
 A cake donut recipe that's simple to make and lightly spiced with cinnamon and nutmeg.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 2 cups all-purpose flour
 - ½ cup white sugar

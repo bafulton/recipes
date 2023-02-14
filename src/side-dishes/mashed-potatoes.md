@@ -11,14 +11,6 @@ authors:
 ## Summary
 Yummy. Buttery. Mashed.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 1 bag potatoes
 - 1 head of garlic

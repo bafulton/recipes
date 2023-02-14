@@ -11,14 +11,6 @@ authors:
 ## Summary
 A fun, fresh take on baked salmon. The maple syrup and soy sauce play off each other well.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 2 pounds of salmon fillets
 - ⅓ cup pure maple syrup

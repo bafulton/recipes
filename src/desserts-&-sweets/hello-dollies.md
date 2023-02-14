@@ -12,14 +12,6 @@ route: /desserts-sweets/hello-dollies
 ## Summary
 This Huffman favorite brings butterscotch to Christmas.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 
 ## Instructions

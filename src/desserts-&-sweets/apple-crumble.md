@@ -12,14 +12,6 @@ route: /desserts-sweets/apple-crumble
 ## Summary
 Sweet & nutty apple crumble.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 #### Filling
 - 12-18 chopped apples (size-dependent), enough to fill a 9x13 dish mostly full

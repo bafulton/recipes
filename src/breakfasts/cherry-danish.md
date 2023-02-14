@@ -11,14 +11,6 @@ authors:
 ## Summary
 Traditional Huffman family breakfast on Christmas Day.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 #### Danish
 - 2 cans crescent roll dough

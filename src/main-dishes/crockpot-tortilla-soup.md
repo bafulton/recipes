@@ -11,14 +11,6 @@ authors:
 ## Summary
 Extremely yummy and healthy vegetarian tortilla soup.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 #### Soup
 - 1 package soy curls (or about 2 cups of beans, tempeh, or your favorite protein here)

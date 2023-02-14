@@ -11,14 +11,6 @@ authors:
 ## Summary
 The classiest chicken salad you've ever had.
 
-||| Prep Time
-??? min
-||| Makes
-6 sandwiches
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 3 cans chicken
 - ¼ cup chopped pecans
@@ -29,6 +21,7 @@ Simple/etc.
 - 1-2 green onions (green and white parts), sliced
 - ½ lemon, juiced
 - salt and pepper, to taste
+- makes 6 sandwiches
 
 ## Instructions
 1. Combine all ingredients.

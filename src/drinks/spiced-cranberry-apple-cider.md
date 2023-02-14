@@ -11,14 +11,6 @@ authors:
 ## Summary
 The perfect drink for a cold night!
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 - 2 cups apple cider
 - 2 cups cranberry juice

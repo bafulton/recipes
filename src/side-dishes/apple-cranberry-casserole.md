@@ -11,14 +11,6 @@ authors:
 ## Summary
 Huffman Thanksgiving favorite. The cranberry balances the apples.
 
-||| Prep Time
-??? min
-||| Makes
-??? portions/etc.
-||| Complexity
-Simple/etc.
-|||
-
 ## Ingredients
 #### Filling
 - 3 cups apples, chopped
