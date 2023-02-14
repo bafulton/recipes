@@ -9,7 +9,7 @@ route: /desserts-sweets/apple-crumble
 ---
 
 # Apple Crumble
-![](/static/banners/tmp/apple-crumble.jpeg)
+![](/static/banners/apple-crumble.jpeg)
 
 ## Summary
 Sweet & nutty apple crumble.

@@ -9,7 +9,7 @@ route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 ---
 
 # White Chocolate Macadamia Nut Cookies
-![](/static/banners/tmp/white-chocolate-macadamia-nut-cookies.jpg)
+![](/static/banners/white-chocolate-macadamia-nut-cookies.jpg)
 
 ## Summary
 Smooth and creamy cookies. White chocolate brings the decadence and almond brings the class.

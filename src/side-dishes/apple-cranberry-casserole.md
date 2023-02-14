@@ -8,7 +8,7 @@ authors:
 ---
 
 # Apple Cranberry Casserole
-![](/static/banners/tmp/apple-cranberry-casserole.webp)
+![](/static/banners/apple-cranberry-casserole.webp)
 
 ## Summary
 Huffman Thanksgiving favorite. The cranberry balances the apples.

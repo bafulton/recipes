@@ -9,7 +9,7 @@ route: /desserts-sweets/vinegar-cookies
 ---
 
 # Vinegar Cookies
-![](/static/banners/tmp/vinegar-cookies.jpg)
+![](/static/banners/vinegar-cookies.jpg)
 
 ## Summary
 Oldie but a goodie, and relatively unique as cookies go. Fulton/Wright family favorite going back to the mid-1900s.

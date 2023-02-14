@@ -8,7 +8,7 @@ authors:
 ---
 
 # Chocolate Banana Bread
-![](/static/banners/tmp/chocolate-banana-bread.webp)
+![](/static/banners/chocolate-banana-bread.webp)
 
 ## Summary
 Chocolate chips and cocoa powder give this soft chocolate banana bread a deep chocolate flavor.

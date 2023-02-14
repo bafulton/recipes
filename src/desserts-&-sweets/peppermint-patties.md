@@ -9,7 +9,7 @@ route: /desserts-sweets/peppermint-patties
 ---
 
 # Peppermint Patties
-![](/static/banners/tmp/peppermint-patties.jpg)
+![](/static/banners/peppermint-patties.jpg)
 
 ## Summary
 They melt in your mouth. First served by Noelle at Christmas 2018.

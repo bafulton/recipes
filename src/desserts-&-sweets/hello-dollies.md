@@ -9,7 +9,7 @@ route: /desserts-sweets/hello-dollies
 ---
 
 # Hello Dollies
-![](/static/banners/tmp/hello-dollies.webp)
+![](/static/banners/hello-dollies.webp)
 
 ## Summary
 This Huffman favorite brings butterscotch to Christmas.

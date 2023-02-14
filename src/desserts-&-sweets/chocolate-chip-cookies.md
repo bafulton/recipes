@@ -9,7 +9,7 @@ route: /desserts-sweets/chocolate-chip-cookies
 ---
 
 # Chocolate Chips
-![](/static/banners/tmp/chocolate-chip-cookies.jpg)
+![](/static/banners/chocolate-chip-cookies.jpg)
 
 ## Summary
 Fulton family's traditional cookie recipe, as listed on the side of the Toll House Chocolate Chips tin.

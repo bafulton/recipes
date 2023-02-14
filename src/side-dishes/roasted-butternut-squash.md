@@ -8,7 +8,7 @@ authors:
 ---
 
 # Roasted Butternut Squash
-![](/static/banners/tmp/roasted-butternut-squash.jpg)
+![](/static/banners/roasted-butternut-squash.jpg)
 
 ## Summary
 The only way to eat butternut squash.

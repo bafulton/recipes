@@ -9,7 +9,7 @@ route: /desserts-sweets/peanut-butter-cookies
 ---
 
 # Peanut Butter Cookies
-![](/static/banners/tmp/peanut-butter-cookies.jpg)
+![](/static/banners/peanut-butter-cookies.jpg)
 
 ## Summary
 Peanut butter. What more is there to say?

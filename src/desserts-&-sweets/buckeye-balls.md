@@ -9,7 +9,7 @@ route: /desserts-sweets/buckeye-balls
 ---
 
 # Buckeye Balls
-![](/static/banners/tmp/buckeye-balls.jpg)
+![](/static/banners/buckeye-balls.jpg)
 
 ## Summary
 Also known as peanut butter balls. The perfect Christmas sweet.

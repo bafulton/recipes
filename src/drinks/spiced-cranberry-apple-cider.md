@@ -8,7 +8,7 @@ authors:
 ---
 
 # Spiced Cranberry Apple Cider
-![](/static/banners/tmp/spiced-cranberry-apple-cider.jpg)
+![](/static/banners/spiced-cranberry-apple-cider.jpg)
 
 ## Summary
 The perfect drink for a cold night!

@@ -9,7 +9,7 @@ route: /desserts-sweets/gingerbread-cookies
 ---
 
 # Gingerbread Cookies
-![](/static/banners/tmp/gingerbread-cookies.jpg)
+![](/static/banners/gingerbread-cookies.jpg)
 
 ## Summary
 Soft and gingery cookies that don't dry out.

@@ -8,7 +8,7 @@ authors:
 ---
 
 # Crockpot Tortilla Soup
-![](/static/banners/tmp/crockpot-tortilla-soup.jpeg)
+![](/static/banners/crockpot-tortilla-soup.jpeg)
 
 ## Summary
 Extremely yummy and healthy vegetarian tortilla soup.

@@ -8,7 +8,7 @@ authors:
 ---
 
 # Kale Salad
-![](/static/banners/tmp/kale-salad.jpg)
+![](/static/banners/kale-salad.jpg)
 
 ## Summary
 Decadent but healthy; you'll be left wanting more.

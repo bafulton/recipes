@@ -8,7 +8,7 @@ authors:
 ---
 
 # Sweet Potato Casserole
-![](/static/banners/tmp/sweet-potato-casserole.png)
+![](/static/banners/sweet-potato-casserole.png)
 
 ## Summary
 A classic Thanksgiving dish.

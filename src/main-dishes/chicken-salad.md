@@ -8,7 +8,7 @@ authors:
 ---
 
 # Chicken Salad
-![](/static/banners/tmp/chicken-salad.jpg)
+![](/static/banners/chicken-salad.jpg)
 
 ## Summary
 The classiest chicken salad you've ever had.
