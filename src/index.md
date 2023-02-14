@@ -7,7 +7,7 @@ Welcome to the repository of favorite Fulton & Huffman family recipes!
 - turkey
 - ham
 - stuffing
-- [!ref](./side-dishes/mashed-potatoes.md)
+- [](./side-dishes/mashed-potatoes.md)
 - gravy
 - green bean casserole
 - cranberry jelly
