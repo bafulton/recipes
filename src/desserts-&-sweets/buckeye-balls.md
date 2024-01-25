@@ -12,10 +12,10 @@ route: /desserts-sweets/buckeye-balls
 ![Also known as peanut butter balls. The perfect Christmas sweet.](/static/banners/buckeye-balls.jpg)
 
 ## Ingredients
-- 1 ½ cups creamy peanut butter
+- 1½ cups creamy peanut butter
 - 1 stick butter
 - 1 tsp vanilla
-- 3 ½ cups powdered sugar
+- 3½ cups powdered sugar
 - 2 packs semisweet chocolate ships
 
 ## Instructions

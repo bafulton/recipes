@@ -16,7 +16,7 @@ route: /desserts-sweets/kisslings
 - 4 cups flour
 - ½ cup powdered sugar
 - 1 tsp vanilla
-- 2 ½ cups pecans (2 cups chopped), optionally toasted
+- 2½ cups pecans (2 cups chopped), optionally toasted
 
 ## Instructions
 1. oven -> 325

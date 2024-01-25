@@ -13,11 +13,11 @@ route: /desserts-sweets/peppermint-patties
 
 ## Ingredients
 - 1 8oz. pkg. cream cheese softened
-- 1 teaspoon peppermint extract
+- 1 tsp peppermint extract
 - 9 cups confectioner’s sugar
-- 1 ½ cups semi-sweet chocolate chips
-- 1 ½ cups milk chocolate chips
-- 6 Tablespoons shortening
+- 1½ cups semi-sweet chocolate chips
+- 1½ cups milk chocolate chips
+- 6 tbsp shortening
 - Crushed peppermints or candy canes
 
 ## Instructions

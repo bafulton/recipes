@@ -14,7 +14,7 @@ authors:
 - 3 cans chicken
 - ¼ cup chopped pecans
 - ½ cup mayonnaise
-- ½ tablespoon dijon mustard
+- ½ tbsp dijon mustard
 - ½ cup red grapes, quartered
 - 1 stalk celery, diced
 - 1-2 green onions (green and white parts), sliced

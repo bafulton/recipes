@@ -14,10 +14,10 @@ authors:
 #### Filling
 - 3 cups apples, chopped
 - 2 cups raw cranberries
-- 1 ¼ white cups sugar
+- 1¼ white cups sugar
 
 #### Topping
-- 1 ½ cup old fashioned oats
+- 1½ cup old fashioned oats
 - ½ cup brown sugar, packed
 - ½ cup flour
 - ⅓ cup pecans, chopped

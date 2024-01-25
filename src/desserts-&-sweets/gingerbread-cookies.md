@@ -12,12 +12,12 @@ route: /desserts-sweets/gingerbread-cookies
 ![Soft and gingery cookies that don't dry out.](/static/banners/gingerbread-cookies.jpg)
 
 ## Ingredients
-- 1 ¼ sticks butter, room temperature
+- 1¼ sticks butter, room temperature
 - ¾ cup dark brown sugar
 - ⅔ cup molasses
 - 1 large egg, room temperature
 - 1 tsp vanilla extract
-- 3 ½ cups flour
+- 3½ cups flour
 - 1 tsp baking soda
 - ½ tsp salt
 - 1 tbsp ground ginger

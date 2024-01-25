@@ -12,17 +12,17 @@ route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 ![Smooth and creamy cookies. White chocolate brings the decadence and almond brings the class.](/static/banners/white-chocolate-macadamia-nut-cookies.jpg)
 
 ## Ingredients
-- 1 c butter (2 sticks) softened 
-- ½ c sugar 
-- ¾ c brown sugar 
+- 1 cup butter (2 sticks) softened 
+- ½ cup sugar 
+- ¾ cup brown sugar 
 - 1 tsp almond 
 - ½ tsp vanilla
 - 2 eggs
-- 2 ½ c flour 
+- 2½ cups flour 
 - 1 tsp baking soda 
 - ½ tsp salt (more if butter was unsalted)
-- 1 c (½ pkg) white chocolate chips
-- 1 c coarsely chopped macadamia nuts
+- 1 cup (½ pkg) white chocolate chips
+- 1 cup coarsely chopped macadamia nuts
 
 ## Instructions
 1. oven -> 350 

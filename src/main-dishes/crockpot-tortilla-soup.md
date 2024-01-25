@@ -18,13 +18,13 @@ authors:
 - 1 large onion, chopped 
 - 2 bell peppers, chopped 
 - 1 can black beans, drained (or about 1.5 cups cooked black beans)
-- 1.5 cups frozen corn 
+- 1½ cups frozen corn 
 - 3 garlic cloves, minced
-- 1 tablespoon chili powder 
-- 1 tablespoon cumin powder 
-- 1 teaspoon ancho chile powder 
-- ½ teaspoon ground black pepper 
-- 1 teaspoon salt (or more to taste)
+- 1 tbsp chili powder 
+- 1 tbsp cumin powder 
+- 1 tsp ancho chile powder 
+- ½ tsp ground black pepper 
+- 1 tsp salt (or more to taste)
 - 4 cups water (or veggie broth)
 - Optional: 2 teaspoons ground chipotle powder (or 1 chipotle pepper in adobo sauce chopped fine)
 - Optional: ¼ cup chopped cilantro (if you hate cilantro just leave it out, don't add parsley)

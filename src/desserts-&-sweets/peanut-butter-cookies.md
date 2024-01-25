@@ -12,16 +12,16 @@ route: /desserts-sweets/peanut-butter-cookies
 ![Peanut butter. What more is there to say?](/static/banners/peanut-butter-cookies.jpg)
 
 ## Ingredients
-- 1 c butter (2 sticks) softened
-- 1 c peanut butter (crunchy or creamy)
-- 1 c white sugar
-- 1 c brown sugar
+- 1 cup butter (2 sticks) softened
+- 1 cup peanut butter (crunchy or creamy)
+- 1 cup white sugar
+- 1 cup brown sugar
 - 2 eggs
-- 2 ½ c flour 
+- 2½ cup flour 
 - ½ tsp salt (more if butter was unsalted)
 - 1 tsp baking powder 
-- 1 ½ tsp baking soda
-- 1 c chopped peanuts (less if chunky peanut butter)
+- 1½ tsp baking soda
+- 1 cup chopped peanuts (less if chunky peanut butter)
 
 ## Instructions
 1. oven -> 375 

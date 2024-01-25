@@ -21,11 +21,11 @@ route: /desserts-sweets/apple-crumble
 #### Topping
 - 1 cup flour
 - 1 cup old-fashioned oats
-- 1 ⅓ cups brown sugar
+- 1⅓ cups brown sugar
 - 1 tsp cinnamon
 - ¼ tsp nutmeg
 - ½ tsp salt (more if using unsalted butter)
-- 1 ½ sticks butter, melted
+- 1½ sticks butter, melted
 - 1+ cup chopped pecans (optional) (toasted, optionally)
 
 ## Instructions

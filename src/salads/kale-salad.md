@@ -20,9 +20,9 @@ authors:
 
 #### Dressing
 - 3 tbsp olive oil
-- 1 ½ tbsp apple cider vinegar (or red wine)
+- 1½ tbsp apple cider vinegar (or red wine)
 - 1 tbsp smooth dijon mustard
-- 1 ½ tsp honey or maple syrup
+- 1½ tsp honey or maple syrup
 - sea salt
 - pepper
 

@@ -12,16 +12,16 @@ route: /desserts-sweets/chocolate-chip-cookies
 ![Fulton family's traditional cookie recipe, as listed on the side of the Toll House Chocolate Chips tin.](/static/banners/chocolate-chip-cookies.jpg)
 
 ## Ingredients
-- 1 c butter (2 sticks) softened
-- ¾ c sugar 
-- ¾ c brown sugar 
+- 1 cup butter (2 sticks) softened
+- ¾ cup sugar 
+- ¾ cup brown sugar 
 - 1 tsp vanilla
 - 2 eggs
-- 2 ¼ c flour 
+- 2¼ cups flour 
 - 1 tsp baking soda 
 - 1 tsp salt (more if butter was unsalted)
 - 1 pkg chocolate chips (2 cups)
-- 1 c chopped nuts
+- 1 cup chopped nuts
 
 ## Instructions
 1. oven -> broil 

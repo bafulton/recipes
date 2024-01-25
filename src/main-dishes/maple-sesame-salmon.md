@@ -11,11 +11,11 @@ authors:
 ![A fun, fresh take on baked salmon. The maple syrup and soy sauce play off each other well.](/static/banners/maple-sesame-salmon.jpg)
 
 ## Ingredients
-- 2 pounds of salmon fillets
+- 2 lbs salmon fillets
 - ⅓ cup pure maple syrup
-- 2 Tablespoons soy sauce
-- 2 Tablespoons sesame oil
-- 2 teaspoons minced garlic
+- 2 tbsp soy sauce
+- 2 tbsp sesame oil
+- 2 tsp minced garlic
 - ¼ cup sesame seeds
 
 ## Instructions
