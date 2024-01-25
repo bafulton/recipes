@@ -12,7 +12,7 @@ route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 ![Smooth and creamy cookies. White chocolate brings the decadence and almond brings the class.](/static/banners/white-chocolate-macadamia-nut-cookies.jpg)
 
 ## Ingredients
-- 1 cup butter (2 sticks) softened 
+- 1 cup (2 sticks) butter softened 
 - ½ cup sugar 
 - ¾ cup brown sugar 
 - 1 tsp almond 
@@ -25,11 +25,11 @@ route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 - 1 cup coarsely chopped macadamia nuts
 
 ## Instructions
-1. oven -> 350°
-2. cream butter, sugars, vanilla, almond 
-3. beat in eggs 
-4. gradually add flour mixture 
-5. cool in fridge for 30 minutes (optional--increases cookie height)
-6. rounded tbspfuls ungreased cookie sheet 
-7. bake 10-12 minutes, until edges are golden brown
-8. makes 5 dozen cookies
+1. Cream the butter, sugars, almond, and vanilla.
+2. Beat in the eggs.
+3. In a separate bowl, combine the flour, baking soda, and salt.
+4. Gradually add the flour mixture to the creamed mixture.
+5. Cool the dough in the fridge for 30 minutes.
+6. Scoop rounded spoonfuls of the dough onto an ungreased cookie sheet.
+7. Broil the cookies for for 2-3 minutes, until the tops are golden.
+8. Set the oven to 350° and bake the cookies for 7-9 minutes, until edges are golden brown.

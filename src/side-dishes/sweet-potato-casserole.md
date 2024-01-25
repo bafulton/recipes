@@ -25,8 +25,8 @@ authors:
 - ½ cup brown sugar
 - ½ stick butter, melted
 - ¼ tsp salt
-- ¾ cup chopped pecans (toasted, optionally)
-- 1 cup oats (optional)
+- ¾ cup chopped pecans, toasted
+- 1 cup oats
 
 ## Instructions
 1. Peel sweet potatoes, chop into 1-inch cubes, and simmer until soft (~15-20 minutes). (Alternatively, bake whole sweet potatoes at 425° for ~1 hour. Less water added makes for a more intense sweet potato flavor.)

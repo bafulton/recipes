@@ -12,7 +12,7 @@ authors:
 
 ## Ingredients
 #### Salad
-- 1 bag kale (~8 oz)
+- 1 bag (~8 oz) kale
 - ½ cup dried cranberries
 - ½ cup toasted pecans
 - 1 medium apple (preferably tart; eg, Granny Smith)

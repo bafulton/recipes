@@ -26,30 +26,26 @@ route: /desserts-sweets/carrot-cake
 - 1 tbsp ground cinnamon
 - ¼ tsp nutmeg
 - 1 cup crushed pineapple, drained
-- 3 cups grated carrots (or more)
-- 1 cup loosely chopped pecans (toasted, optionally)
+- 3+ cups grated carrots
+- 1 cup chopped pecans, toasted
 
 #### Frosting
 - 4 cups powdered sugar
 - 8 ounces cream cheese, softened
 - ½ to ¾ stick unsalted butter, softened
 - 1 tsp vanilla extract
-- 1 cup chopped pecans (optional) (toasted, optionally)
+- 1 cup chopped pecans, toasted
 
 ## Instructions
 #### Cake
-1. oven -> 350°
-2. grease & flour a 9x13 pan (or 2 9-inch round pans)
-3. beat together eggs, oil, applesauce, sugars, and vanilla 
-4. mix in flour, baking soda, baking powder, salt, cinnamon, and nutmeg 
-5. stir in crushed pineapple 
-6. stir in carrots 
-7. fold in pecans 
-8. bake 40-50 mins, until toothpick in center comes out clean 
-9. cool for 10 minutes, then turn onto wire rack to cool completely
+1. Grease and flour a 9x13 pan (or two 9-inch round pans).
+2. Beat together the eggs, oil, applesauce, sugars, and vanilla. 
+3. Mix in the flour, baking soda, baking powder, salt, cinnamon, and nutmeg. 
+4. Stir in the crushed pineapple, carrots, and pecans.
+5. Bake at 350° for 40-50 minutes, until a toothpick inserted in the center comes out clean. 
+6. Cool for 10 minutes before removing the cakes from the pans, then let the cakes cool completely.
 
 #### Frosting
-1. combine butter, cream cheese, powdered sugar, and vanilla
-2. beat until smooth and creamy
-3. stir in chopped pecans
-4. frost the cooled cake
+1. Combine the butter, cream cheese, powdered sugar, and vanilla. Beat until smooth and creamy.
+2. Stir in the pecans.
+3. Frost the cooled cake.

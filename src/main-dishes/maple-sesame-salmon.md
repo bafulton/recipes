@@ -19,14 +19,13 @@ authors:
 - ¼ cup sesame seeds
 
 ## Instructions
-1. Preheat oven to 375°.
-2. Place salmon fillets into a foil-lined pan.
-3. Whisk together maple syrup, soy sauce, sesame oil, and minced garlic.
-4. Pour 75% of the glaze over the salmon.
-5. Sprinkle salmon with sesame seeds.
-6. Bake for ~30 minutes (20+ minutes per inch of thickness), until done.
-7. Pour the remaining glaze into a small pan and simmer it for ~5 minutes, until thick.
-8. Pour thickened glaze over baked salmon and garnish with sesame seeds.
+1. Place salmon fillets in a foil-lined pan.
+2. Whisk together maple syrup, soy sauce, sesame oil, and minced garlic.
+3. Pour 75% of the glaze over the salmon.
+4. Sprinkle salmon with sesame seeds.
+5. Bake at 375° for ~30 minutes (20+ minutes per inch of thickness).
+6. Pour the remaining glaze into a small pan and simmer it for ~5 minutes until it thickens.
+7. Pour the glaze over the baked salmon and garnish with sesame seeds.
 
 ## Resources
 [!ref target="blank" text="Recipe"](https://sallysbakingaddiction.com/easy-maple-sesame-salmon/)

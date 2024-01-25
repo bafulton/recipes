@@ -24,10 +24,10 @@ route: /desserts-sweets/peanut-butter-cookies
 - 1 cup chopped peanuts (less if chunky peanut butter)
 
 ## Instructions
-1. oven -> 375°
-2. cream butter, sugars, peanut butter 
-3. beat in eggs 
-4. gradually add flour mixture 
-5. cool in fridge for 30 minutes-1 hour (optional--increases cookie height)
-6. roll into 1 inch balls, criss-cross with fork 
-7. bake 10 minutes, until edges begin to brown
+1. Cream butter, peanut butter, and sugars.
+2. Beat in the eggs.
+3. In a separate bowl, combine the flour, salt, baking powder, and baking soda.
+4. Gradually add the flour mixture to the creamed mixture. 
+5. Cool the dough in fridge for 30-60 minutes.
+6. Roll the dough into 1 inch balls and criss-cross with fork. 
+7. Bake at 375° for 10 minutes, until edges begin to brown.

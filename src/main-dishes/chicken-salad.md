@@ -20,8 +20,8 @@ authors:
 - 1-2 green onions (green and white parts), sliced
 - ½ lemon, juiced
 - salt and pepper, to taste
-- makes 6 sandwiches
 
 ## Instructions
 1. Combine all ingredients.
 2. Service on bread or croissants.
+3. Makes 6 sandwiches.

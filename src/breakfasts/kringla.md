@@ -45,13 +45,13 @@ authors:
 4. Add almond extract.
 5. Spread the filling over the crust.
 6. Bake at 375° for 40 minutes.
-7Cool before adding glaze and toppings.
+7. Cool before adding glaze and toppings.
 
 #### Glaze & Toppings
-1. Combine powdered sugar, butter, and almond extract.
+1. Combine the powdered sugar, butter, and almond extract.
 2. Add milk until the glaze reaches a spreading consistency.
-3. Spread glaze over the crust and filling.
-4. Chop cherries into small chunks.
+3. Spread the glaze over the crust and filling.
+4. Chop the cherries into small chunks.
 5. Sprinkle toasted almonds and cherries on the kringlas.
 
 ## Resources

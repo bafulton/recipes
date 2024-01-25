@@ -26,20 +26,19 @@ authors:
 
 ## Instructions
 #### Crust
-1. oven -> 350°
-2. grease 9x13 pan
-3. unroll 1 can of crescent roll dough and press into bottom of pan
-4. Bake at 350° for 10 minutes, until lightly golden
-5. cool for 5-10 minutes
+1. Grease a 9x13 pan.
+2. Unroll 1 can of crescent roll dough and press it into the bottom of the pan.
+3. Bake at 350° for 10 minutes, until the crust is lightly golden.
+4. Cool for 5-10 minutes.
 
 #### Filling
-1. combine cream cheese, vanilla, egg white, and powdered sugar and mix until creamy
-2. spread mix in pan
-3. add can of cherries
-4. unroll 2nd can of crescent roll dough and cover the mix/cherries
-5. bake for 25-30 minutes, until crust is golden brown (may need to rotate pan)
-6. let cool for 5-10 minutes
+1. Combine the cream cheese, vanilla, egg white, and powdered sugar and mix until creamy.
+2. Spread the mix in the pan.
+3. Add the can of cherries.
+4. Unroll the 2nd can of crescent roll dough and cover the mix/cherries.
+5. Bake at 350° for 25-30 minutes, until crust is golden brown (you may need to rotate the pan).
+6. Cool for 5-10 minutes.
 
 #### Glaze
-1. combine ¾ cup powdered sugar, milk, and vanilla in bowl and mix until smooth
-2. drizzle over the danish
+1. Combine ¾ cup powdered sugar, milk, and vanilla in a bowl and mix until smooth.
+2. Drizzle the glaze over the danish.

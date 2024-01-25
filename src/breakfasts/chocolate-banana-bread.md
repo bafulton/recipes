@@ -24,13 +24,13 @@ authors:
 - 2 cups semisweet chocolate chips
 
 ## Instructions
-1. oven -> 350° grease two loaf pans
-2. combine dry ingredients in a bowl 
-3. in another bowl, mash bananas, mix in oil and butter 
-4. stir in sugar, egg, and vanilla 
-5. stir the dry ingredients into the wet ingredients; don't overmix 
-6. stir in 1+ cup of chocolate chips 
-7. pour batter into prepared pans 
-8. sprinkle remaining chocolate chips over the top 
-9. bake for 40-45 minutes, until toothpick comes out clean 
-10. cool for 15 minutes before removing from pans
+1. Grease two loaf pans.
+2. Combine the flour, cocoa powder, baking soda, and salt in a bowl. 
+3. In another bowl, mash the bananas and mix in oil and butter. 
+4. Stir sugar, egg, and vanilla into the banana mix. 
+5. Stir the dry ingredients into the wet ingredients. Don't overmix. 
+6. Stir in 1+ cup of chocolate chips. 
+7. Pour the batter into the prepared pans. 
+8. Sprinkle the remaining chocolate chips over the top. 
+9. Bake at 350° for 40-45 minutes, until a toothpick comes out clean. 
+10. Cool for 15 minutes before removing the bread from the pans.
