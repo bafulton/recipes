@@ -19,7 +19,7 @@ authors:
 - ½ tsp garlic powder
 
 ## Instructions
-1. Preheat oven to 375.
+1. Preheat oven to 375°.
 2. Peel the squash, slice it in two, and remove the seeds. Dice the squash flesh into ~½ inch cubes.
 3. Mix all ingredients together until the squash chunks are well coated.
 4. Spread the chunks out on a baking pan, and roast for 35 minutes, until the squash is tender.

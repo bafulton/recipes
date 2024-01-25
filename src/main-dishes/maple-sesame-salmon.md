@@ -19,7 +19,7 @@ authors:
 - ¼ cup sesame seeds
 
 ## Instructions
-1. Preheat oven to 375.
+1. Preheat oven to 375°.
 2. Place salmon fillets into a foil-lined pan.
 3. Whisk together maple syrup, soy sauce, sesame oil, and minced garlic.
 4. Pour 75% of the glaze over the salmon.

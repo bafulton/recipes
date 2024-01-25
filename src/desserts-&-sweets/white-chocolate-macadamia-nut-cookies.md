@@ -25,7 +25,7 @@ route: /desserts-sweets/white-chocolate-macadamia-nut-cookies
 - 1 cup coarsely chopped macadamia nuts
 
 ## Instructions
-1. oven -> 350 
+1. oven -> 350°
 2. cream butter, sugars, vanilla, almond 
 3. beat in eggs 
 4. gradually add flour mixture 

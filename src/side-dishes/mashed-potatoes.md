@@ -22,7 +22,7 @@ authors:
 - sour cream (optional)
 
 ## Instructions
-1. Preheat oven to 425. Scrub the potatoes, prick them with a fork, and place them in a foil-lined baking pan.
+1. Preheat oven to 425°. Scrub the potatoes, prick them with a fork, and place them in a foil-lined baking pan.
 2. Slice the full head of garlic along its equator, and place both halves face down on a separate piece of foil. Drizzle the garlic with olive oil, and season with salt and pepper. Fold the edges of the foil up around the garlic and crimp it closed. Place the foil pouch in the baking pan.
 3. Bake the potatoes and garlic for 65-75 minutes, until a knife slices through the potatoes easily. Let the potatoes cool slightly.
 4. Optionally halve the potatoes lengthwise and remove the skins. Place the potatoes in a mixer. Squeeze the garlic clovess out of their shells and into the mixer as well.

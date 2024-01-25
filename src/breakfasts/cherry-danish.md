@@ -26,10 +26,10 @@ authors:
 
 ## Instructions
 #### Crust
-1. oven -> 350
+1. oven -> 350°
 2. grease 9x13 pan
 3. unroll 1 can of crescent roll dough and press into bottom of pan
-4. bake for 10 minutes, until lightly golden
+4. Bake at 350° for 10 minutes, until lightly golden
 5. cool for 5-10 minutes
 
 #### Filling

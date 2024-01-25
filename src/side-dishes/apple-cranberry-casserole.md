@@ -26,4 +26,4 @@ authors:
 ## Instructions
 1. Mix filling ingredients and place in 2 quart casserole dish (9x13 dish)
 2. Mix topping and pour over filling.
-3. Bake at 350 for 1 hour.
+3. Bake at 350° for 1 hour.

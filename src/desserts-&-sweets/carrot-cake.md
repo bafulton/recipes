@@ -38,7 +38,7 @@ route: /desserts-sweets/carrot-cake
 
 ## Instructions
 #### Cake
-1. oven -> 350
+1. oven -> 350°
 2. grease & flour a 9x13 pan (or 2 9-inch round pans)
 3. beat together eggs, oil, applesauce, sugars, and vanilla 
 4. mix in flour, baking soda, baking powder, salt, cinnamon, and nutmeg 

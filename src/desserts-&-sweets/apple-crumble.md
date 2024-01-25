@@ -29,7 +29,7 @@ route: /desserts-sweets/apple-crumble
 - 1+ cup chopped pecans (optional) (toasted, optionally)
 
 ## Instructions
-1. oven -> 350
+1. oven -> 350°
 2. make filling (ensure apples are evenly coated), pour into 9x13 pan
 3. make topping (add butter last and stir until crumbly), place on top of filling
 4. bake 45-60 minutes, until topping looks golden brown

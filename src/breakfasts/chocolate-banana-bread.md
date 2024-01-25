@@ -24,7 +24,7 @@ authors:
 - 2 cups semisweet chocolate chips
 
 ## Instructions
-1. oven -> 350 grease two loaf pans
+1. oven -> 350° grease two loaf pans
 2. combine dry ingredients in a bowl 
 3. in another bowl, mash bananas, mix in oil and butter 
 4. stir in sugar, egg, and vanilla 

@@ -24,7 +24,7 @@ route: /desserts-sweets/peanut-butter-cookies
 - 1 cup chopped peanuts (less if chunky peanut butter)
 
 ## Instructions
-1. oven -> 375 
+1. oven -> 375°
 2. cream butter, sugars, peanut butter 
 3. beat in eggs 
 4. gradually add flour mixture 

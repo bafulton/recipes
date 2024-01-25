@@ -29,8 +29,8 @@ authors:
 - 1 cup oats (optional)
 
 ## Instructions
-1. Peel sweet potatoes, chop into 1-inch cubes, and simmer until soft (~15-20 minutes). (Alternatively, bake whole sweet potatoes at 425 for ~1 hour. Less water added makes for a more intense sweet potato flavor.)
-2. Preheat oven to 350 degrees.
+1. Peel sweet potatoes, chop into 1-inch cubes, and simmer until soft (~15-20 minutes). (Alternatively, bake whole sweet potatoes at 425° for ~1 hour. Less water added makes for a more intense sweet potato flavor.)
+2. Preheat oven to 350°.
 3. Butter a 9x13 baking dish.
 4. Drain the sweet potatoes and mash them.
 5. Mix the filling ingredients into the sweet potatoes, put in the baking dish.

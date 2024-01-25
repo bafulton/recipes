@@ -31,6 +31,6 @@ route: /desserts-sweets/chocolate-chip-cookies
 5. cool in fridge for 30 minutes (optional--increases cookie height)
 6. rounded tbspfuls ungreased cookie sheet 
 7. broil for 2-3 minutes, until tops are golden 
-8. oven -> 375 
+8. oven -> 375°
 9. bake 6-8 minutes
 10. makes 5 dozen cookies
