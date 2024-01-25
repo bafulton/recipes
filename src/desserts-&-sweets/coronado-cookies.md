@@ -1,6 +1,6 @@
 ---
 label: Coronado cookies
-tags: []
+tags: [cookies]
 categories: [Emilie Huffman]
 authors:
   - name: Emilie Huffman

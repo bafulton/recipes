@@ -1,6 +1,6 @@
 ---
 label: Aglio olio e peperoncini
-tags: []
+tags: [pasta]
 categories: [Emilie Huffman]
 authors:
   - name: Emilie Huffman

@@ -1,6 +1,6 @@
 ---
 label: Cacio e pepe
-tags: []
+tags: [pasta]
 categories: [Emilie Huffman]
 authors:
   - name: Emilie Huffman
