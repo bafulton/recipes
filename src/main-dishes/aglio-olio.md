@@ -1,5 +1,5 @@
 ---
-label: Spaghetti aglio olio e peperoncini
+label: Aglio olio e peperoncini
 tags: []
 categories: [Emilie Huffman]
 authors:
@@ -7,8 +7,8 @@ authors:
     link: /categories/emilie-huffman
 ---
 
-# Spaghetti Aglio Olio e Peperoncino
-![Simple, quick to prepare, and yummy!](/static/banners/spaghetti-aglio-olio.jpg)
+# Aglio Olio e Peperoncino
+![Simple, quick to prepare, and yummy!](/static/banners/aglio-olio.jpg)
 
 ## Ingredients
 
