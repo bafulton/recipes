@@ -13,7 +13,3 @@ authors:
 ## Ingredients
 
 ## Instructions
-
-## Resources
-[!ref target="blank" text="Recipe"](http://...)
-[!ref target="blank" text="Archive"](https://archive.is/...)

@@ -15,5 +15,5 @@ authors:
 ## Instructions
 
 ## Resources
-[!ref target="blank" text="Recipe"](http://...)
-[!ref target="blank" text="Archive"](https://archive.is/...)
+[!ref target="blank" text="Recipe"](https://www.bonappetit.com/recipe/cacio-e-pepe)
+[!ref target="blank" text="Archive"](https://archive.is/gG06Z)
