@@ -18,7 +18,7 @@ authors:
 - kosher salt
 
 #### Filling
-- 1 pound (or 454 grams) fresh rhubarb, sliced into ½-inch chunks
+- 1 pound fresh rhubarb
 - 1½ cups granulated sugar
 - ⅓ cup all-purpose flour
 - 2 large eggs
@@ -34,11 +34,12 @@ authors:
 4. Bake, uncovered, for an additional 5 minutes.
 
 #### Filling
-1. Place the rhubarb in a bowl and toss it in ¼ cup of sugar.
-2. Whisk together the remaining 1¼ cup sugar, flour, eggs, butter, cream, and lemon juice until combined.
-3. Pour the filling into the prepared crust and scatter the rhubarb evenly on top, discarding any liquid at the bottom of the bowl.
-4. Bake the pie at 350° for 60 to 65 minutes, or until the edges of the filling are set but the center still wobbles slightly.
-5. Cool the pie on a wire rack for at least 2 hours before serving.
+1. Slice the rhubarb into ½-inch chunks. 
+2. Place the rhubarb in a bowl and toss it in ¼ cup of sugar.
+3. Whisk together the remaining 1¼ cup sugar, flour, eggs, butter, cream, and lemon juice until combined.
+4. Pour the filling into the prepared crust and scatter the rhubarb evenly on top, discarding any liquid at the bottom of the bowl.
+5. Bake the pie at 350° for 60 to 65 minutes, or until the edges of the filling are set but the center still wobbles slightly.
+6. Cool the pie on a wire rack for at least 2 hours before serving.
 
 ## Resources
 [!ref target="blank" text="Recipe"](https://www.hummingbirdhigh.com/2020/05/rhubarb-custard-pie.html)
