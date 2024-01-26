@@ -16,7 +16,6 @@ authors:
 - ½ cup olive oil
 - 6 cloves of garlic, minced
 - 1 tsp crushed red pepper flakes
-- ½ cup pasta water
 - ½ cup chopped parsley
 - grated parmesan cheese
 
